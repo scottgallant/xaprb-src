@@ -1,0 +1,21 @@
+---
+title: "Where's the Calpont source code?"
+date: "2009-04-25"
+url: /blog/2009/04/25/wheres-the-calpont-source-code/
+categories:
+  - Conferences
+  - Databases
+---
+As you may have noticed, [Calpont](http://www.calpont.com/) [has been](http://www.mysqlconf.com/mysql2009/public/schedule/detail/8997) [advertising themselves](http://conferences.percona.com/percona-performance-conference-2009/schedule.html) as an open-source storage engine for MySQL. And yet there is no source code.
+
+A bit of back-story. When we were choosing speakers for the [Percona Performance Conference](http://conferences.percona.com/), I personally reviewed Calpont's submission and sent them an email on March 19th:
+
+> I cannot confirm that this is an open-source columnar storage engine. I can't find source code or a download of the software. Can you point me the right direction on that? I want to be sure we are describing things accurately.
+
+The response was
+
+> Calpont is indeed going to be placed into the open source community somewhere right around the time of the User Conference. We are in the process of wrapping up a few things before we make it available for download so that we can make sure that we make the right first impression."
+
+I accepted their talk on good faith, but I still don't see any source code, just "How to Buy" buttons. This blog post is a gentle public reminder that the source code is overdue.
+
+

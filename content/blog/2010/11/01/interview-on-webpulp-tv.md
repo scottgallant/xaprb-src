@@ -1,0 +1,10 @@
+---
+title: Interview on webpulp.tv
+date: "2010-11-01"
+url: /blog/2010/11/01/interview-on-webpulp-tv/
+categories:
+  - Databases
+---
+Josh Owens of Webpulp.tv [just posted an interview with me](http://webpulp.tv/post/1450868812/percona-baron-schwartz). Lots of good questions about MySQL, performance optimization, and Percona's version of the server. Thanks Josh!
+
+

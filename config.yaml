@@ -1,0 +1,20 @@
+baseurl: 'http://www.xaprb.com/'
+blackfriday:
+  plainIdAnchors: true
+publishdir: "../xaprb-web/"
+params:
+   author: "Baron Schwartz"
+   Tagline: "Stay Curious!"
+   Title: "Xaprb"
+   GoogleAnalytics: "UA-101883-1"
+   Swiftype: "Dq2t2TnFxXxWs_y9hi1k"
+   domain: "xaprb.com"
+   DateForm: "Mon, Jan 2, 2006"
+   RecentLimit: 20
+   DisqusUser: "xaprb"
+   LanyonOptions: "layout-reverse sidebar-overlay"
+MetaDataFormat: "yaml"
+Paginate: 20
+Taxonomies:
+   category: "categories"
+---

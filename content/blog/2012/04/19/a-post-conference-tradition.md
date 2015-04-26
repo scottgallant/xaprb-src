@@ -1,0 +1,14 @@
+---
+title: A post-conference tradition
+date: "2012-04-19"
+url: /blog/2012/04/19/a-post-conference-tradition/
+categories:
+  - Databases
+---
+It's nice that this happened again this year:
+
+[<img src="/media/2012/04/google-reader-279x300.png" alt="" title="google-reader" width="279" height="300" class="alignnone size-medium wp-image-2726" />](/media/2012/04/google-reader.png)
+
+The question I ask myself every year is, When am I going to get time to study all of these great blog posts?
+
+

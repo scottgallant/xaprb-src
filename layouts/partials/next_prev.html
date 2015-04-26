@@ -1,0 +1,12 @@
+<div class="pagination">
+  {{ if .Next }}
+    <a class="pagination-item older" href="{{ .Next.Url }}">Older</a>
+  {{ else }}
+    <span class="pagination-item older">Older</span>
+  {{ end }}
+  {{ if .Prev }}
+    <a class="pagination-item newer" href="{{ .Prev.Url }}">Newer</a>
+  {{ else }}
+    <span class="pagination-item newer">Newer</span>
+  {{ end }}
+</div>
