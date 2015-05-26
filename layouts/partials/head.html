@@ -29,4 +29,7 @@
 
   <!-- Other -->
   <link rel="canonical" href="{{ .Permalink }}">
+  {{ if .Description }}
+  <meta name="description" value="{{ .Description }}">
+  {{ end }}
 </head>
