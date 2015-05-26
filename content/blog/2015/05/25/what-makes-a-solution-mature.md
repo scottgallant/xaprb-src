@@ -11,13 +11,18 @@ something quite new and unproven as a replacement for mature, boring technology
 I'm using happily.
 
 I would consider a new and unproven technology, and I often have. As I've
-written previously, though, a real evaluation takes a lot of effort and that
+written previously, though, [a real evaluation takes a lot of
+effort](/blog/2014/06/08/time-series-database-requirements/), and that
 makes most evaluations non-starters.
 
 Perhaps the most important thing I'm considering is whether the product is
 mature. There are different levels of maturity, naturally, but I want to
 understand whether it's mature enough for me to take a look at it. And in that
 spirit, it's worth understanding what makes a database mature.
+
+![Bristlecone](/media/2015/05/bristlecone.jpg)
+
+<!--more-->
 
 For my purposes, maturity really means *demonstrated capability and quality with
 a lot of thought given to all the little things*.
@@ -149,10 +154,13 @@ particular order.
 
 The most important thing when considering a database, though, is success
 stories. The world is different from a few decades ago, when the good databases
-were all proprietary and nobody knew how they did their magic. Now, most new
-databases are adopted at a ratio of hundreds of non-paying users for each paying
-customer.  Those non-paying users are a challenge for a company in many ways,
-but at least they're vouching for the solution.
+were all proprietary and nobody knew how they did their magic, so proofs of
+concept were a key sales tactic. Now, most new databases are opensource and the
+users either understand how they work, or rest easy in the knowledge that they
+can find out if they want. And most are adopted at a ratio of hundreds of
+non-paying users for each paying customer.  Those non-paying users are a
+challenge for a company in many ways, but at least they're vouching for the
+solution.
 
 Success stories and a community of users go together. If I can choose from a
 magical database that claims to solve all kinds of problems perfectly, versus
@@ -165,6 +173,8 @@ different workloads, and I want to hear what's good and bad about it.
 (Honest marketing helps a lot with this, by the way. If the company's own claims
 match bloggers' claims, a smaller corpus online is more credible as a
 result.)
+
+![Roots](/media/2015/05/roots.jpg)
 
 These kinds of dynamics help explain why most of the fast-growing emerging
 databases are opensource.  Opensource has an automatic advantage because of free
@@ -204,3 +214,7 @@ asked me, and I have enough friends at these companies, that I thought it would
 be helpful to write this up. Hopefully this serves its intended purpose and
 doesn't hurt any feelings. Please use the comments to let me know if I can
 improve this post.
+
+[Bristlecone pine by
+yenchao](https://www.flickr.com/photos/yenchao/9187247776/), [roots by
+mclcbooks](https://www.flickr.com/photos/39877441@N05/4672973273/)
