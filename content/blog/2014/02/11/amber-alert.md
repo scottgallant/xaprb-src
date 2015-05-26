@@ -1,5 +1,6 @@
 ---
 title: "Amber Alert: Worse Than Nothing?"
+description: "An alert with no context is an alert that will be ignored."
 date: "2014-02-12"
 url: /blog/2014/02/12/amber-alert/
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Switching from Sublime Text back to Vim"
+description: "EMacs is next, no doubt."
 date: "2014-04-15"
 url: /blog/2014/04/15/sublime-text-vim-go/"
 categories:

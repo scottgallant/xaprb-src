@@ -1,5 +1,6 @@
 ---
 title: "On Focus"
+description: "Your free will lies in the directing of your attention. Whatever you concentrate on will become central to your life."
 date: "2014-07-05"
 url: /blog/2014/07/05/on-focus/
 categories:

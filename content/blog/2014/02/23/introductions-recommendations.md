@@ -1,5 +1,6 @@
 ---
 title: "Respectful Introductions and Recommendations"
+description: "Introducing people carries risk for all parties involved."
 date: "2014-02-23"
 url: /blog/2014/02/23/respectful-introductions-recommendations/
 categories:

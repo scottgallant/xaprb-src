@@ -1,5 +1,6 @@
 ---
 title: "Win a Free Pass to Velocity"
+description: "VividCortex is giving away a ticket."
 date: "2014-10-30"
 url: /blog/2014/10/30/win-free-pass-velocity/
 categories:

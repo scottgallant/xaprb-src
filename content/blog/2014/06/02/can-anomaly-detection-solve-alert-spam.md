@@ -1,5 +1,6 @@
 ---
 title: "Can Anomaly Detection Solve Alert Spam?"
+description: "Attend the webinar to learn more."
 date: "2014-06-02"
 url: /blog/2014/06/02/can-anomaly-detection-solve-alert-spam/
 categories:

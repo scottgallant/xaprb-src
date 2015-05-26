@@ -1,6 +1,7 @@
 ---
 title: "Speaking at Percona Live"
 date: "2014-01-23"
+description: "Percona Live is the best MySQL conference, period."
 url: /blog/2014/01/23/speaking-at-percona-live/
 categories:
   - Databases

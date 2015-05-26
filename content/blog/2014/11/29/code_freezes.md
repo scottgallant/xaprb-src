@@ -1,5 +1,6 @@
 ---
 title: "Why Deployment Freezes Don't Prevent Outages"
+description: "The harder you try, the worse it gets."
 date: "2014-11-29"
 url: /blog/2014/11/29/code-freezes-dont-prevent-outages/
 categories:

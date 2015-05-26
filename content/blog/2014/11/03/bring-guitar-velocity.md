@@ -1,5 +1,6 @@
 ---
 title: "Can You Bring A Guitar To Velocity?"
+description: "And chocolate, please?"
 date: "2014-11-03"
 url: /blog/2014/11/03/bring-guitar-velocity/
 categories:

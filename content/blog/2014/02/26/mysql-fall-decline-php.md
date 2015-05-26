@@ -1,5 +1,6 @@
 ---
 title: "MySQL falls with the decline of PHP"
+description: "Rumors of MySQL's decline have been greatly exaggerated."
 date: "2014-02-26"
 url: /blog/2014/02/26/mysql-fall-decline-php/
 categories:

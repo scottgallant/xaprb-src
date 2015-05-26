@@ -1,5 +1,6 @@
 ---
 title: "Slides From Percona Live"
+description: "Embedded slides for the two talks I gave at Percona Live."
 date: "2014-04-13"
 url: /blog/2014/04/13/slides-from-percona-live/"
 categories:

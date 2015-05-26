@@ -3,6 +3,7 @@ categories:
   - Databases
 date: 2015-04-02T03:51:18-05:00
 title: State Of The Storage Engine - DZone
+description: "For the first time in decades, there's actual innovation in databases."
 ---
 
 I contributed an article on [modern database storage

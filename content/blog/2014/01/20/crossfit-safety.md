@@ -1,6 +1,7 @@
 ---
 title: "On Crossfit and Safety"
 date: "2014-01-20"
+description: "I love Crossfit. I just don't always love the coaches and the movements."
 url: /blog/2014/01/20/crossfit-safety/
 categories:
   - Health

@@ -1,5 +1,6 @@
 ---
 title: "Bloom Filters Made Easy"
+description: "Bloom filters are easy to understand with the right explanation."
 date: "2014-02-11"
 url: /blog/2014/02/11/bloom-filters/
 categories:

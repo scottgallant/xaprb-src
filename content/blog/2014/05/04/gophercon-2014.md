@@ -1,5 +1,6 @@
 ---
 title: "GopherCon 2014"
+description: "GopherCon 2014 was amazing."
 date: "2014-05-04"
 url: /blog/2014/05/04/gophercon-2014/
 categories:

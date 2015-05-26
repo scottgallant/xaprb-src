@@ -1,5 +1,6 @@
 ---
 title: "Meditate With Me At Velocity"
+description: "You'll feel like hugging me afterwards, but that's OK."
 date: "2014-06-24"
 url: /blog/2014/06/24/meditate-at-velocity/
 categories:

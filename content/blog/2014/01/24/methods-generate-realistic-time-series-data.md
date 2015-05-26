@@ -1,6 +1,7 @@
 ---
 title: "Generating Realistic Time Series Data"
 date: "2014-01-24"
+description: "Can non-random, useful data for time-series analysis be achieved?"
 url: /blog/2014/01/24/methods-generate-realistic-time-series-data/
 categories:
   - Programming

@@ -1,5 +1,6 @@
 ---
 title: "Percona Live Recap"
+description: "Percona Live was the best MySQL conference I've been to."
 date: "2014-04-11"
 url: /blog/2014/04/11/percona-live-recap/
 categories:

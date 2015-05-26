@@ -3,6 +3,7 @@ categories:
   - Databases
 date: 2015-03-31T03:51:18-05:00
 title: Scaling Backend Systems at VividCortex
+description: "How we scaled our systems to meet unusual demands."
 ---
 
 I wrote [a guest post for High

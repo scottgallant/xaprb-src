@@ -1,5 +1,6 @@
 ---
 title: "The Root Cause Fallacy"
+description: "Root cause analysis isn't very useful. It's always the CEO's fault."
 date: "2014-07-21"
 url: /blog/2014/07/21/root-cause-fallacy/
 categories:

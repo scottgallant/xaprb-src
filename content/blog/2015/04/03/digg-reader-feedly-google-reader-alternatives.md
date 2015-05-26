@@ -4,6 +4,7 @@ categories:
   - Web
 date: 2015-04-03T13:51:18-05:00
 title: Digg Reader and Feedly, Two Great Google Reader Alternatives
+description: "Live without Google Reader is hard, but I'm hanging in there."
 ---
 
 I used Google Reader since time out of mind, but of course by now you know it

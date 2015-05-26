@@ -1,5 +1,6 @@
 ---
 title: "Go MySQL Drivers"
+description: "There are excellent opensource Go drivers for MySQL"
 date: "2014-04-29"
 url: /blog/2014/04/29/golang-mysql-drivers/"
 categories:

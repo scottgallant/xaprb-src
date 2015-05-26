@@ -1,5 +1,6 @@
 ---
 title: "Monitorama 2014: This One Weird Time-Series Math Trick"
+description: "Tried the Kolmogorov; bartender was out of Smirnov."
 date: "2014-05-06"
 url: /blog/2014/05/06/one-weird-time-series-math-trick/
 categories:

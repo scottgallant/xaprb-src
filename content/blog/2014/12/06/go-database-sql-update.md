@@ -1,5 +1,6 @@
 ---
 title: "A Free Tutorial On Go's Database/SQL Package"
+description: "Learn how to write effective, idiomatic code"
 date: "2014-12-06"
 url: /blog/2014/12/06/free-tutorial-golang-database-sql/
 categories:

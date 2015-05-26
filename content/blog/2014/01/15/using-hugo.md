@@ -1,6 +1,7 @@
 ---
 title: "Xaprb now uses Hugo"
 date: "2014-01-15"
+description: "The Xaprb blog is now using Hugo, a fast static site generator written in Go."
 url: /blog/2014/01/15/using-hugo/
 categories:
   - About

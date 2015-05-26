@@ -1,5 +1,6 @@
 ---
 title: "How To Print All The Way To The Edge In Microsoft Word"
+description: "It's simpler than you think."
 date: "2014-11-01"
 url: /blog/2014/11/01/print-full-bleed-microsoft-word/
 categories:

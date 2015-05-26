@@ -1,5 +1,6 @@
 ---
 title: "Two of My Favorite Conferences: Velocity and Surge"
+description: "The third is Chocolate Con, but you knew that."
 date: "2014-06-18"
 url: /blog/2014/06/18/my-favorite-conferences-velocity-surge/
 categories:

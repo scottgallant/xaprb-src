@@ -1,6 +1,7 @@
 ---
 title: "A review of Bose, Sony, and Sennheiser noise-cancelling headphones"
 date: "2014-01-16"
+description: "Why I keep coming back to Sennheiser headphones no matter how many pairs of Bose I own"
 url: /blog/2014/01/16/bose-sennheiser-sony-noise-cancelling-headphones/
 categories:
   - Music

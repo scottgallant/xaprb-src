@@ -1,5 +1,6 @@
 ---
 title: "Ultima Online and the History of Sharding"
+description: "The backstory of database sharding"
 date: "2014-04-21"
 url: /blog/2014/04/21/ultima-online-sharding/
 categories:

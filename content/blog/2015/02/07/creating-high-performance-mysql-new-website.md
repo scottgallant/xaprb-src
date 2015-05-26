@@ -1,5 +1,6 @@
 ---
 title: "Making High Performance MySQL's New Website"
+description: "A sweet cover image makes all the difference."
 date: "2015-02-07"
 categories:
   - Writing

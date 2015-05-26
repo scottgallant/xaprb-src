@@ -1,5 +1,6 @@
 ---
 title: "Unfixable Code"
+description: "How you can paint yourself into a corner with bad code."
 date: "2014-06-21"
 url: /blog/2014/06/21/unfixable-code/
 categories:

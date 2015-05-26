@@ -1,5 +1,6 @@
 ---
 title: "MySQL, SQL, NoSQL, Open Source And Beyond: a Google Tech Talk"
+description: "I'm speaking at Google on the current database landscape."
 date: "2014-02-05"
 url: /blog/2014/02/05/mysql-nosql-open-source-google-tech-talk/
 categories:

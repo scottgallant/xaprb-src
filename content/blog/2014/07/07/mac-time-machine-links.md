@@ -1,5 +1,6 @@
 ---
 title: "Mac's Time Machine and Symlinks"
+description: "A common backup failure turns out to be pretty simple to fix."
 date: "2014-07-07"
 url: /blog/2014/07/07/mac-time-machine-links/
 categories:

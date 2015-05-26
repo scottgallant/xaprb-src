@@ -1,5 +1,6 @@
 ---
 title: "The DevOps Identity Crisis"
+description: "Why DevOps needs a manifesto after all, but may never get one."
 date: "2015-02-07"
 categories:
   - Operations

@@ -1,5 +1,6 @@
 ---
 title: "Replication Sync Checking Algorithms"
+description: "Is MySQL ignoring a decade of research and hard work?"
 date: "2014-04-12"
 url: /blog/2014/04/12/replication-sync-algorithms/
 categories:

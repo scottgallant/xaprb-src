@@ -4,6 +4,7 @@ categories:
   - Reviews
 date: 2015-04-04T03:51:18-05:00
 title: A Standing Desk On The Cheap
+description: "A little bit of Wabi-Sabi goes a long ways."
 ---
 
 Everyone loves (or

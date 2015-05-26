@@ -1,5 +1,6 @@
 ---
 title: "If Eventual Consistency Seems Hard, Wait Till You Try MVCC"
+description: "The rabbit hole is very deep indeed."
 date: "2014-12-08"
 url: /blog/2014/12/08/eventual-consistency-simpler-than-mvcc/
 categories:

@@ -1,5 +1,6 @@
 ---
 title: Can MySQL be a 12-factor service?
+description: "12-factor systems are easier to operate; can MySQL be treated this way?"
 date: "2014-05-10"
 url: /blog/2014/05/10/can-mysql-be-12factor-service/
 categories:

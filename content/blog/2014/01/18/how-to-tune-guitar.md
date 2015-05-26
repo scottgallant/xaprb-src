@@ -1,6 +1,7 @@
 ---
 title: "How to Tune A Guitar (Or Any Instrument)"
 date: "2014-01-18"
+description: "Once you hear it, you'll never listen to music the same way again."
 url: /blog/2014/01/18/how-to-tune-guitar/
 categories:
   - Music

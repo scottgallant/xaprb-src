@@ -4,6 +4,7 @@ categories:
   - Programming
 date: 2015-03-01T13:51:18-05:00
 title: The Age Of Smart Machines
+description: "I'm not sure we've any idea what computers are capable of."
 ---
 
 What will life be like in the age of smart machines? According to a [Batten

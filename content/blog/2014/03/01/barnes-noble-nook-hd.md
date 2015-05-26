@@ -1,5 +1,6 @@
 ---
 title: "The Barnes and Noble Nook HD+"
+description: "This inexpensive tablet is a great budget item."
 date: "2014-03-01"
 url: /blog/2014/03/01/barnes-noble-nook-hd/
 categories:

@@ -3,6 +3,7 @@ categories:
   - Desktop
 date: 2015-03-20T13:51:18-05:00
 title: Nine Great Mac Power User Tips
+description: "You haven't been able to live without this, whether you know it or not."
 ---
 
 If you're a Mac user like me, maybe you'll find the following tips helpful for

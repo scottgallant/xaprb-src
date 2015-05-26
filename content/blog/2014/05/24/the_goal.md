@@ -1,6 +1,7 @@
 ---
 title: The Goal
 date: "2014-05-24"
+description: "Teams are systems, too."
 url: /blog/2014/05/24/the-goal/
 categories:
   - Programming

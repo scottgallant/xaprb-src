@@ -3,6 +3,7 @@ categories:
   - Conferences
 date: 2015-05-18T13:51:18-05:00
 title: What I Look For In A Conference Proposal
+description: "Advice from a veteran conference committee member."
 ---
 
 I've written a few times before about how to write a good conference proposal.

@@ -1,5 +1,6 @@
 ---
 title: "Time-Series Databases and InfluxDB"
+description: "Time-series data is everwhere. Databases that work well for it are not."
 date: "2014-03-02"
 url: /blog/2014/03/02/time-series-databases-influxdb/
 categories:

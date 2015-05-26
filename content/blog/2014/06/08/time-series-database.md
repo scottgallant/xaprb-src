@@ -1,5 +1,6 @@
 ---
 title: "Time-Series Database Requirements"
+description: "What should a time-series database do?"
 date: "2014-06-08"
 url: /blog/2014/06/08/time-series-database-requirements/
 categories:
