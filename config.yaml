@@ -17,4 +17,5 @@ MetaDataFormat: "yaml"
 Paginate: 20
 Taxonomies:
    category: "categories"
+   tag: "tags"
 ---
