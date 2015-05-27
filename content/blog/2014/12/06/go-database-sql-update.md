@@ -5,6 +5,8 @@ date: "2014-12-06"
 url: /blog/2014/12/06/free-tutorial-golang-database-sql/
 categories:
   - Programming
+tags:
+  - PostgreSQL
 ---
 
 Do you use Google's Go language (golang)? Do you use a relational database such as MySQL

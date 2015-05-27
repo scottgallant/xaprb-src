@@ -5,6 +5,8 @@ url: /blog/2010/10/19/i-wish-i-could-be-at-pgwest/
 categories:
   - Conferences
   - Databases
+tags:
+  - PostgreSQL
 ---
 I wish I could go to [PGWest](https://www.postgresqlconference.org/2010/west/) this year. A lot of great work has been done on PostgreSQL in the last year and a half. There's a new release with built-in replication, and there are in-place upgrades. That solves two of what I think are its three biggest shortcomings in many large-scale database deployments. (Lack of index-only queries is the third shortcoming.)
 

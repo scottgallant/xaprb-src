@@ -7,6 +7,8 @@ categories:
   - Databases
   - Open Source
   - Programming
+tags:
+  - PostgreSQL
 ---
 I've packaged up and released version 1.1.2 of the [Cacti templates I've written for MySQL, Apache, memcached, nginx etc](http://code.google.com/p/mysql-cacti-templates/).
 

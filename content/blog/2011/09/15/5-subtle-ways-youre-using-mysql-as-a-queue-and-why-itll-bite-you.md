@@ -4,6 +4,8 @@ date: "2011-09-15"
 categories:
   - Databases
   - Guest Posts
+tags:
+  - PostgreSQL
 ---
 
 *This post originally appeared on [the Engine Yard blog](https://blog.engineyard.com/2011/5-subtle-ways-youre-using-mysql-as-a-queue-and-why-itll-bite-you/).*

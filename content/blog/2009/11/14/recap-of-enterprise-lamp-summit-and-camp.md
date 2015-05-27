@@ -5,6 +5,8 @@ url: /blog/2009/11/14/recap-of-enterprise-lamp-summit-and-camp/
 categories:
   - Conferences
   - Databases
+tags:
+  - PostgreSQL
 ---
 Last week I attended the [Enterprise LAMP Summit and Camp](http://enterpriselamp.org/) in Nashville, Tennessee. I enjoyed the event and met or reconnected with a lot of great people. I was glad to be able to spend time with some folks from the Postgres community. My own sessions focused on MySQL.
 

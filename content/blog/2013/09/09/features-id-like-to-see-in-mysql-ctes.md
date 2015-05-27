@@ -4,6 +4,8 @@ date: "2013-09-09"
 url: /blog/2013/09/09/features-id-like-to-see-in-mysql-ctes/
 categories:
   - Databases
+tags:
+  - PostgreSQL
 ---
 
 The pace of MySQL engineering has been pretty brisk for the last few years. I think that most of the credit is due to Oracle, but one should not ignore Percona, Monty Program, Facebook, Google, Twitter, and others. Not only are these organizations (and the individuals I haven't mentioned) innovating a lot, they're providing pressure on Oracle to keep up the improvements, too. 

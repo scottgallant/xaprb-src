@@ -6,6 +6,8 @@ categories:
   - Conferences
   - Databases
   - Open Source
+tags:
+  - PostgreSQL
 ---
 I'll be presenting several sessions at the [O'Reilly MySQL Conference & Expo 2011](http://en.oreilly.com/mysql2011/), which is April 11-14 in Santa Clara, California. I recommend this conference to anyone interested in open-source databases including MySQL, PostgreSQL, CouchDB, MongoDB, and others. There is very good coverage of a diverse list of open-source databases.
 

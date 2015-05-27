@@ -7,6 +7,8 @@ categories:
   - Databases
   - Operations
   - Programming
+tags:
+  - PostgreSQL
 ---
 I've released version 1.1.8 of the [Better Cacti Templates](http://code.google.com/p/mysql-cacti-templates/) project. This release includes a bunch of bug fixes and several important new graphs. There are [graphs](http://code.google.com/p/mysql-cacti-templates/wiki/MySQLTemplates#MySQL_Query_Response_Time_%28Microseconds%29) for the new [response-time statistics exposed in Percona Server](http://www.percona.com/docs/wiki/percona-server:features:response_time_distribution), and a new set of graphs for [MongoDB](http://code.google.com/p/mysql-cacti-templates/wiki/MongoDBTemplates).
 

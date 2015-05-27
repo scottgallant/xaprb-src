@@ -7,6 +7,8 @@ categories:
   - Databases
   - Operations
   - Programming
+tags:
+  - PostgreSQL
 ---
 I've released version 1.1.5 of my [improved Cacti templates](http://code.google.com/p/mysql-cacti-templates/) for MySQL and other components of a LAMP application. This is a pure bug-fix release. One of the bug fixes prevents spikes in graphs, but requires you to rebuild your RRD files. There are [upgrade instructions](http://code.google.com/p/mysql-cacti-templates/wiki/UpgradingTemplates) on the project wiki for this and all releases. Use the [project issue tracker](http://code.google.com/p/mysql-cacti-templates/issues/list) to view and report issues, and use the [project mailing list](http://groups.google.com/group/better-cacti-templates) to discuss the templates and scripts.
 

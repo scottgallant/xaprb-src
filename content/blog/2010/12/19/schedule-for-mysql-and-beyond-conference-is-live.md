@@ -5,6 +5,8 @@ url: /blog/2010/12/19/schedule-for-mysql-and-beyond-conference-is-live/
 categories:
   - Conferences
   - Databases
+tags:
+  - PostgreSQL
 ---
 [O'Reilly's 2011 edition of the MySQL conference](http://en.oreilly.com/mysql2011/) has an expanded agenda, with good representation from Postgres, CouchDB, MongoDB, and others. Take a look at [the full schedule listing](http://en.oreilly.com/mysql2011/public/schedule/full), which is being filled out as talks are approved and the speakers verify that they'll give the session.
 

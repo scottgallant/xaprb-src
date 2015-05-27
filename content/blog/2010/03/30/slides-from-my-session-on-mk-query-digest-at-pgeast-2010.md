@@ -6,6 +6,8 @@ categories:
   - Conferences
   - Databases
   - Open Source
+tags:
+  - PostgreSQL
 ---
 After two years of just attending and heckling, this time I attended, heckled and presented! Here are the slides from my session demonstrating [mk-query-digest's new PostgreSQL log-parsing functionality](http://www.maatkit.org/wp-content/uploads/2010/03/query-analysis-with-mk-query-digest.pdf), which I gave at PgEast 2010 this past weekend. (Great conference, by the way.)
 

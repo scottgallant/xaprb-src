@@ -5,6 +5,8 @@ date: "2011-06-08"
 categories:
   - Reviews
   - Databases
+tags:
+  - PostgreSQL
 ---
 [<img src="/media/2011/06/postgreql-administration-cookbook.jpg" alt="" title="postgreql-administration-cookbook" width="200" height="247" class="alignleft size-full wp-image-2351" />](http://www.amazon.com/PostgreSQL-Admin-Cookbook-Simon-Riggs/dp/1849510288/?tag=xaprb-20)
 

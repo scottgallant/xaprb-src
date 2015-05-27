@@ -4,6 +4,8 @@ date: "2013-09-10"
 url: /blog/2013/09/10/features-id-like-in-mysql-windowing-functions/
 categories:
   - Databases
+tags:
+  - PostgreSQL
 ---
 
 Continuing with my wishlist, I'll add windowing functions. They're enormously powerful. They allow you to extend relational logic beyond the strict boundaries of tuples. In MySQL at present, one must use ugly hacks to preserve state from one row to the next, such as user variables -- which are not guaranteed to work if the optimizer changes the query plan. 

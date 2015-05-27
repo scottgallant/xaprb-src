@@ -6,6 +6,8 @@ categories:
   - Conferences
   - Databases
   - Writing
+tags:
+  - PostgreSQL
 ---
 Want a free copy of [High Performance MySQL, Third Edition](http://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287/?tag=xaprb-20)? If you [register](http://perconalive-mysql-conference-expo-2012.eventbrite.com/) before the early-bird pricing expires for the [MySQL Conference in April](http://www.percona.com/live/mysql-conference-2012/), and use the discount code PL-Book, you'll get to take a free copy home from the conference!
 

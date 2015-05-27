@@ -4,6 +4,8 @@ date: "2013-06-13"
 url: /blog/2013/06/13/djancocon-2013-call-for-papers-open/
 categories:
   - Databases
+tags:
+  - PostgreSQL
 ---
 Are you a Django user? There's an [upcoming Django conference in Chicago in a few months](http://www.djangocon.us/), and I know they're looking for speakers with MySQL experience in particular. One suggestion the organizers have floated is a talk on MySQL:
 

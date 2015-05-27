@@ -5,6 +5,8 @@ url: /blog/2009/06/21/recap-of-southeast-linux-fest-2009/
 categories:
   - Conferences
   - Databases
+tags:
+  - PostgreSQL
 ---
 Last weekend, my brother and I attended [SELF 2009](http://www.southeastlinuxfest.org/). A few thoughts on it:
 

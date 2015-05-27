@@ -4,6 +4,8 @@ date: "2012-08-23"
 url: /blog/2012/08/23/avoiding-statement-based-replication-warnings/
 categories:
   - Databases
+tags:
+  - PostgreSQL
 ---
 Although not perfect, MySQL replication was probably the killer feature that made MySQL the default database for web applications some time ago. Since then, MySQL replication has been improved greatly, with such notable changes as row-based replication. At the same time, the replication engineering team has made MySQL replication more conservative and less forgiving of foot-gun errors. These have gone a long way towards helping users avoid some of the problems that made replication sometimes drift out of sync with the master copy, sometimes silently.
 

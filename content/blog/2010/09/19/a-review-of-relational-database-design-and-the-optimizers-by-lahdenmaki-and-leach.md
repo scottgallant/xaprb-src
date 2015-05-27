@@ -5,6 +5,8 @@ date: "2010-09-19"
 categories:
   - Reviews
   - Databases
+tags:
+  - PostgreSQL
 ---
 
 [Relational Database Index Design and the Optimizers](http://www.amazon.com/Relational-Database-Index-Design-Optimizers/dp/0471719994/?tag=xaprb-20). By Tapio Lahdenmaki and Mike Leach, Wiley 2005.

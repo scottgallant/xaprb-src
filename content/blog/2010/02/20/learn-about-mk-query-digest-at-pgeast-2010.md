@@ -6,6 +6,8 @@ categories:
   - Conferences
   - Databases
   - Open Source
+tags:
+  - PostgreSQL
 ---
 I'll be attending [PgEast](http://www.postgresqlconference.org/) this year, as I've done for the last couple of years, and this year I'll also be speaking. The topic is [query analysis with mk-query-digest](http://postgresqlconference.org/2010/east/talks/query/analysis_with_mk_query_digest). The official description of my talk is as follows:
 

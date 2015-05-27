@@ -6,6 +6,8 @@ categories:
   - Monitoring
   - Operations
   - Reviews
+tags:
+  - PostgreSQL
 ---
 
 <a href="http://www.amazon.com/Cacti-Network-Monitoring-Ibrahim-Lavlu/dp/1847195962?tag=xaprb-20"><img src="/media/2010/01/cacti-network-monitoring.jpg" alt="Cacti Network Monitoring" title="Cacti Network Monitoring" width="240" height="240" class="size-full wp-image-1531" /></a>

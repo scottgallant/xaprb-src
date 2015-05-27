@@ -6,6 +6,8 @@ categories:
   - Conferences
   - Scalability
   - Databases
+tags:
+  - PostgreSQL
 ---
 I presented at this year's [Hotsos Symposium](). I am searching for a claim to specialness, and I think it may be that I am the first Hotsos presenter who's specifically focused on MySQL. True? I don't know, but I'll run with it for now.
 

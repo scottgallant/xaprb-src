@@ -4,6 +4,8 @@ date: "2009-12-31"
 url: /blog/2009/12/31/a-simple-way-to-make-birthday-queries-easier-and-faster/
 categories:
   - Databases
+tags:
+  - PostgreSQL
 ---
 It's New Year's Eve, a date that should strike terror into the hearts of many, because tomorrow a bunch of their queries are going to fail.
 

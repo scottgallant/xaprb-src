@@ -5,6 +5,8 @@ url: /blog/2010/04/10/brian-aker-20gb-doesnt-fit-on-a-single-server/
 categories:
   - Commentary
   - Databases
+tags:
+  - PostgreSQL
 ---
 [Brian](http://tangent.org/) got [interviewed by O'Relly](http://radar.oreilly.com/2010/04/a-mysql-update-from-brian-aker.html) recently, and part of it quoted him as saying this:
 

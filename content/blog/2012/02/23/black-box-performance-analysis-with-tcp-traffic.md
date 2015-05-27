@@ -6,6 +6,8 @@ categories:
   - Databases
   - Open Source
   - Performance
+tags:
+  - PostgreSQL
 ---
 This is a cross-post from the [MySQL Performance Blog](http://www.mysqlperformanceblog.com/2012/02/23/black-box-mysql-performance-analysis-with-tcp-traffic/). I thought it would be interesting to users of PostgreSQL, Redis, Memcached, and $system-of-interest as well.
 

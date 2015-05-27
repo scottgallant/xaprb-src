@@ -6,6 +6,8 @@ url: /blog/2014/12/08/eventual-consistency-simpler-than-mvcc/
 categories:
   - Programming
   - Databases
+tags:
+  - PostgreSQL
 ---
 
 This should sound familiar:

@@ -5,6 +5,8 @@ url: /blog/2009/11/14/mk-query-digest-now-understands-http/
 categories:
   - Databases
   - Open Source
+tags:
+  - PostgreSQL
 ---
 You used to use [mk-query-digest](http://www.maatkit.org/) to aggregate and report on MySQL's slow query log. Then it got the ability to grab query events from polling SHOW PROCESSLIST. Next we thought, really, how hard can it be to implement the libmysql wire protocol, so we can sniff TCP packets? ... it's hard, but not that hard as it turns out. But why stop there, why not implement memcached protocol too? I think you can see where this is headed.
 

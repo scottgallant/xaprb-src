@@ -4,6 +4,8 @@ date: "2009-11-03"
 url: /blog/2009/11/03/im-a-postgres-user-as-it-turns-out/
 categories:
   - Databases
+tags:
+  - PostgreSQL
 ---
 Someone recently posted this to an email list as a sample of an interesting SHOW INNODB STATUS output:
 

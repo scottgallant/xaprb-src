@@ -5,6 +5,8 @@ url: /blog/2011/02/13/a-review-of-postgresql-9-0-high-performance-by-gregory-smi
 categories:
   - Databases
   - Reviews
+tags:
+  - PostgreSQL
 ---
 <p style="float:left">
   <div id="attachment_2209" class="wp-caption alignleft" style="width: 253px">

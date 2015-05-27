@@ -5,6 +5,8 @@ date: "2014-02-26"
 url: /blog/2014/02/26/mysql-fall-decline-php/
 categories:
   - Databases
+tags:
+  - PostgreSQL
 ---
 Sometimes people's perspective can be so interesting. I mean this with
 absolutely no irony. Josh Berkus wrote recently in a post about upcoming [JSON

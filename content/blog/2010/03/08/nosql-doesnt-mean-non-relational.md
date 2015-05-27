@@ -5,6 +5,8 @@ url: /blog/2010/03/08/nosql-doesnt-mean-non-relational/
 categories:
   - Commentary
   - Databases
+tags:
+  - PostgreSQL
 ---
 It seems that a lot of people equate non-SQL databases with non-relational-ness, or malign the word *relational*. This is pretty much pure ignorance. If you've ever uttered a sentence that includes the phrase "...non-relational database..." then I have two suggestions for you.
 

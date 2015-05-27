@@ -5,6 +5,8 @@ url: /blog/2009/11/19/how-to-tell-if-someone-is-bullshitting/
 categories:
   - Commentary
   - Databases
+tags:
+  - PostgreSQL
 ---
 Ever been around a group of people discussing some technology and heard Cool-Whip phrases like this?
 

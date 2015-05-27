@@ -4,6 +4,8 @@ categories:
 date: 2015-05-25T14:40:42-04:00
 title: "What Makes A Database Mature?"
 description: "Read this before you ask me to buy your database."
+tags:
+  - PostgreSQL
 ---
 
 Many database vendors would like me to take a look at their products and

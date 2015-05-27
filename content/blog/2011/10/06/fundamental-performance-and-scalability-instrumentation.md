@@ -7,6 +7,8 @@ categories:
   - Databases
   - Performance
   - Scalability
+tags:
+  - PostgreSQL
 ---
 This post is a followup to some promises I made at Postgres Open.
 

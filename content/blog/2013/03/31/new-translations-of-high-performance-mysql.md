@@ -4,6 +4,8 @@ date: "2013-03-31"
 url: /blog/2013/03/31/new-translations-of-high-performance-mysql/
 categories:
   - Databases
+tags:
+  - PostgreSQL
 ---
 [High Performance MySQL, 3rd Edition](http://www.highperfmysql.com/) has been selling very well. It's translated into many languages. O'Reilly sends me a hard-copy of the translations, and I have a whole section on my bookshelf dedicated to them. It's really satisfying to look at it.
 

@@ -7,6 +7,8 @@ categories:
   - Databases
   - Operations
   - Programming
+tags:
+  - PostgreSQL
 ---
 I've released version 1.1.7 of the [Better Cacti Templates](http://code.google.com/p/mysql-cacti-templates/) project. This release includes a bunch of bug fixes, some new graphs for MySQL, and two new sets of graphs, for Redis graphing and for JMX graphing.
 

@@ -4,6 +4,8 @@ url: /blog/2010/02/08/how-postgresql-protects-against-partial-page-writes-and-da
 date: "2010-02-08"
 categories:
   - Databases
+tags:
+  - PostgreSQL
 ---
 I explored two interesting topics today while learning more about Postgres.
 
