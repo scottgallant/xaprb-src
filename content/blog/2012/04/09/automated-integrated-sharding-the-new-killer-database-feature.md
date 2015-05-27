@@ -6,6 +6,7 @@ categories:
   - Databases
 tags:
   - PostgreSQL
+  - MongoDB
 ---
 MySQL became wildly successful in part because it had built-in, simple replication. Sure, it had lots of interesting failure scenarios and was not great at first --- it is much better these days --- but it was nevertheless successful because there was a single, out-of-the-box, not-very-complex way to do replication. I have opined many times before that this was one of the killer features missing from PostgreSQL. I think that can large explain why MySQL became more popular more quickly.
 

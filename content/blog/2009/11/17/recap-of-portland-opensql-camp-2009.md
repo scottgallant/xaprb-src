@@ -5,6 +5,8 @@ url: /blog/2009/11/17/recap-of-portland-opensql-camp-2009/
 categories:
   - Conferences
   - Databases
+tags:
+  - MongoDB
 ---
 I was at [OpenSQL Camp 2009 in Portland](http://opensqlcamp.org/Events/Portland2009/) last weekend. I thought the event was very well done. On Friday we had a pizza party at Old Town Pizza, which was awesome. Saturday and Sunday were breakfast, sessions, lunch (yum), and sessions and hacking. These were held at [souk](http://www.soukllc.com/), a co-working space. After 5PM, people got together for dinner, beer, etc.
 

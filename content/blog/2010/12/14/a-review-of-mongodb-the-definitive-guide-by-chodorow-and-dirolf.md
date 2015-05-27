@@ -5,6 +5,9 @@ url: /blog/2010/12/14/a-review-of-mongodb-the-definitive-guide-by-chodorow-and-d
 categories:
   - Databases
   - Reviews
+tags:
+  - MongoDB
+
 ---
 <p style="float:left">
   <div id="attachment_2114" class="wp-caption alignleft" style="width: 190px">
