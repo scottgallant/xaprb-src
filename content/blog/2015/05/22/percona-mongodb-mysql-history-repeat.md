@@ -6,8 +6,8 @@ date: 2015-05-22T13:51:18-05:00
 title: "History Repeats: MySQL, MongoDB, Percona, and Open Source"
 description: "MongoDB sometimes feels like deja vu all over again."
 tags:
-  - PostgreSQL
   - MongoDB
+  - MySQL
 ---
 
 History is repeating again. MongoDB is breaking out of the niche into the
