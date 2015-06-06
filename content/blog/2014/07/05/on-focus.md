@@ -4,7 +4,7 @@ description: "Your free will lies in the directing of your attention. Whatever y
 date: "2014-07-05"
 url: /blog/2014/07/05/on-focus/
 categories:
-  - Programming
+  - Life Hacking
 ---
 
 Focus is perhaps the most important attribute in an organization. In fact, my dictionary defines an organization as "an organized body of people with a particular purpose..." A focused organization recognizes and cleaves to its purpose.
