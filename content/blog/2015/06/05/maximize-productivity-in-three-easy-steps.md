@@ -37,6 +37,12 @@ always worth reading, says this about getting a good night's sleep:
 > you are and be kind to yourself and others. This helps to get reach the peace
 > of mind a good nights sleep requires.
 
+> [Edit: here's a comment from Rob Young on Facebook that I just had to share
+> here. "The only thing I would add to the first tip is to at least
+> attempt to forgive others as well. It may take time, but I try to let others'
+> transgressions go as soon as my heart/mind will allow. And always be kind to
+> all in all ways." Thanks, Rob -- these are such wise words.]
+
 With that in mind, here are the three simple steps that have made a world of
 difference for me.
 
@@ -80,10 +86,10 @@ it sets you up for maximum productivity when you can best make use of it, as
 you'll see next. All in all, I think it's perhaps one of the best things you can
 possibly do with your evening time.
 
-As a corollary, I think one of the worst times you can try to think about
+As a corollary, I think one of the **worst** times you can try to think about
 priorities is the morning. In the morning, your mind is empty of context. You
 can't remember all the things you might want or need to factor into
-priority-setting. Do this in the evening.
+priority-setting. **Do this in the evening.**
 
 Now close down all the windows and tabs you don't need. Close your email and
 social media. Close chat and messenger programs. Close everything. In the
@@ -108,8 +114,12 @@ than what you're doing, which is causing hunger?"
 I have experimented carefully and found that fats and proteins are the best for
 me. Two of my favorites are:
 
-1. Scrambled eggs slow-cooked with lots of butter.
+1. Scrambled eggs slow-cooked with lots of butter, and perhaps some cheese.
 2. Smoothies with items such as peanut butter, protein powder, avocado, and yogurt.
+
+If I eat something carb-heavy, such as a pancake, I like to drench it with
+coconut oil, butter, or spread it with peanut butter or yogurt to help me digest
+it slowly.
 
 People are incredibly different and we do not all run on the same engines and
 fuels. Find out what works for you. (That applies to this entire article,
@@ -123,8 +133,8 @@ I omitted part of Marten Mickos's quote before:
 > When you wake up in the morning, push yourself to be dissatisfied and highly
 > ambitious.
 
-Maybe you are different, but most people I know agree with me that morning is
-their most productive time. With the mind newly cleared after the subconscious
+Maybe you are different, but most people I know agree that morning is
+their most productive time. With your mind newly cleared after your subconscious
 has dealt with stress and conflict through productive dreaming and imagery, you
 are at your best for several hours in the morning.
 
@@ -146,8 +156,7 @@ focus ruthlessly on those things when you're most productive. Block out time
 on your calendar routinely to prevent interruptions.
 
 Think about this: what's on your calendar? Do you schedule your *work* or do you
-schedule *interruptions to your work*? Ask yourself if that is as you really
-want it.
+schedule *interruptions to your work*? Is that really how you want it?
 
 ![Snowflake](/media/2015/06/snowflake.jpg)
 
@@ -156,7 +165,7 @@ morning, and you've decided what to focus on so you don't waste a moment
 thinking about it, then the only thing remaining is to ensure that no one but
 you owns your morning time.
 
-You need to take ownership and control of your schedule so others don't do it
+You need to take ownership and control of your schedule or others will do it
 for you.
 
 ### In Conclusion
