@@ -457,6 +457,13 @@ There are two very common systems of tuning: fourths and fifths, and thirds and
 fifths. As you may know, the cycle of fifths will cycle you through every note
 in the 12-note scale. You can cycle through the notes in various ways, however.
 
+Fun tangent: this [old book from 1821
+explains](https://play.google.com/store/books/details?id=jotFAQAAMAAJ), in a
+roundabout way, the system of fifths and thirds as well as a system based on
+advancing by major and minor thirds.
+
+![tuning](/media/2014/01/old-tuning-book.jpg)
+
 The system of thirds and fifths proceeds from middle C up a fifth to G, down a
 third to E-flat, up a fifth to B-flat, and so on.  The system of fourths and
 fifths goes from C up a fifth to G, down a fourth to D, and so on.
