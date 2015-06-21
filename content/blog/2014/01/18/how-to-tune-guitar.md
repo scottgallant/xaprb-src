@@ -76,6 +76,10 @@ the sum.
 Notice how the summed wave (the red wave) fluctuates in magnitude.
 To the human ear, this sounds like a note going "wow, wow, wow, wow." The frequency of this fluctuation is the difference between the frequencies of the notes.
 
+Here's what that looks like when you take a mistuned instrument and analyze its FFT (Fast Fourier Transform). This is a G chord played on a harp. The upper G is not perfectly tuned and its amplitude fluctuates because of beats against the lower G.
+
+![Beats FFT](/media/2014/01/fft-beats.png)
+
 This is the foundation of all tuning by ear that isn't based on guesswork.
 
 Before you go on, tune two strings close together on your guitar or other
