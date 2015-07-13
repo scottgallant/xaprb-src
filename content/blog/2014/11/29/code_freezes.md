@@ -38,7 +38,11 @@ Unfortunately, the assumptions are wrong, which is why deployment freezes often 
 
 It's true that change breaks things, but that doesn't tell the whole story. The reality is that systems are always changing, even when you think they're not. And they're also broken. Right now. You just don't know it yet.
 
-The first great lie is that you can stop systems from changing. You can't stop change. Shipping code is *not* the only change in a system. Unless the system is turned off completely, it's changing every instant. User requests are being served. Logs are being written. Cron jobs and other scheduled tasks are starting, running, and stopping. The system clock is advancing. There are also dependencies on other systems, which likewise are undergoing constant change. And there are requirements changes, which nobody ever thinks about.
+The first great lie is that you can stop systems from changing. You can't stop change. As Charity Majors [tweeted](https://twitter.com/mipsytipsy/status/618170448652582912), the image below is "one of the greatest lies in computer science."
+
+![If you do nothing, nothing happens](/media/2014/11/nothing-changes.png)
+
+Shipping code is *not* the only change in a system. Unless the system is turned off completely, it's changing every instant. User requests are being served. Logs are being written. Cron jobs and other scheduled tasks are starting, running, and stopping. The system clock is advancing. There are also dependencies on other systems, which likewise are undergoing constant change. And there are requirements changes, which nobody ever thinks about.
 
 Most of these changes happen all the time and nothing goes wrong, or humans adjust and fix things as a matter of course. But many of these changes actually expose corner-case bugs or weird problems that just aren't tickled often. As a result, you get the illusion that your systems are not broken. And that's the second great lie, because your systems *are* broken. You just don't know it yet.
 
