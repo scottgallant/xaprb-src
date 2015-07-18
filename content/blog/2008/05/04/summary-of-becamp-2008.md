@@ -18,7 +18,7 @@ Yesterday I went to [beCamp 2008](http://barcamp.org/beCamp2008) along with four
 
 ### From Hadoop to Bang-Splat
 
-I used the law of two feet a time or two. In fact, the first session I wanted to go to, which was about [Hadoop](http://hadoop.apache.org/core/) and [MapReduce](http://labs.google.com/papers/mapreduce.html), had no knowledgeable attendees. Someone overslept. OK, that's the way it goes: move along.
+I used the law of two feet a time or two. In fact, the first session I wanted to go to, which was about [Hadoop](http://hadoop.apache.org/core/) and [MapReduce](http://research.google.com/archive/mapreduce.html), had no knowledgeable attendees. Someone overslept. OK, that's the way it goes: move along.
 
 From there I went to a session about Unix command-line productivity. Most of the sessions I saw were traditional in that they had one person standing up talking and many people sitting and listening, but not all. This one had several clever command-line gurus mentioning their favorite power tips.
 
