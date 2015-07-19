@@ -299,6 +299,66 @@ tuning any instrument. You generally don't need to have every arbitrary
 interval memorized. You will use only a handful of intervals and you'll learn
 their beats.
 
+### Why Are Intervals Imperfect?
+
+There's probably some fascinating number theory behind the relationships amongst
+intervals, but what I find remarkable is that there are any octave-based scales
+that have close-to-perfect intervals at all. It seems to me that it's an
+interesting coincidence and nothing more. Look at it this way:
+
+- Octave-based scales are based on powers of two
+- Intervals are based on powers of something other than two
+- There are subdivisions of the octave-based scales that coincide nearly, but
+  not exactly, with the non-power-of-two intervals
+- Isn't that cool? How unlikely is that?
+
+I vaguely remember reading once when I was a child about an avant-garde composer
+who created a scale with something like 51 divisions, which had nearly perfect
+intervals and very small gradations between adjacent notes.
+
+In any case, powers of two are easy to compute: 2, 4, 8, 16, 32, 64, 128, 256.
+Those are the multiples of frequencies. How do those multiples compare versus
+the next-simplest interval, the fifth? A fifth is a 3:2 relationship, and there
+are 12 fifths---the "cycle of fifths"---in the evenly tempered scale. If you
+keep increasing by fifths you'll end up at the same note after 12 iterations.
+
+That means the frequency is 1.5 to the 12th power, right? What is that multiple?
+
+    1.5^12 = 129.74633789
+
+That's pretty close to 128, but slightly "wide," meaning if you tune perfect
+fifths 12 times in a row you'll end up overshooting, with a frequency that's
+1.36% too high. What's the relationship between 3:2 and the 12th root of 2 to
+the 7th power (there are 7 semitones in a 5th)?
+
+    3/2      = 1.5          # perfect fifth
+    2^(7/12) = 1.498307077  # fifth as tuned in equal temperaments
+
+A single (perfect) fifth is 0.1129% too high in frequency. Multiply that by 12
+and 12 perfect fifths will become 1.36% too high in frequency. Boom.
+
+What about fourths? They're just the complement of fifths. Thirds? A perfect
+major third is a 5:4 frequency ratio. Unlike fifths, the cycle of thirds returns
+to the same note after only three steps (for example, C - E - G# - C), so the
+number of steps to multiply is different. What is 5/4ths to the 3rd power?
+
+    (5/4)^3 = 1.953125
+
+Close, but not exactly, 2; it's only 97.65625% of a perfect octave. What's the
+relationship between 5/4ths and the 12th root of 2 to the 4th power?
+
+    5/4      = 1.25
+    2^(4/12) = 1.25992105
+
+A single (perfect) major third is too low in frequency; it's only 99.2% of the
+frequency it needs to be to align with the evenly tempered scale. If you cube
+that, you get 97.65625% again.
+
+Hopefully that explains how fifths and thirds are close to, but not exactly,
+perfectly coincident with the frequencies. Again, I think a mathematician who
+likes to think in base 2, base 1/12th, base 1.5 and base 1.25 would have fun
+with this. Or maybe I'm just overthinking it.
+
 ### Tuning The Guitar
 
 With all that theory behind us, we can move on to a tuning system for the guitar.
@@ -568,6 +628,49 @@ harp, her book is one of the main written sources.
 There are a variety of magazines covering the harp renaissance in the latter
 part of the 20th century, and they contain much valuable additional material.
 
+### Systems For Tuning Diatonic Instruments
+
+So how do you tune the harp, in practice? Here's how I do it for a harp in C:
+
+- Use an A440 tuning fork to tune the A3 string. Its frequency is 220Hz but it's
+  easy to tune by listening to its first partial.
+- Down a 5th to D; 1/2 beat narrow.
+- Return to the A440.
+- Down a 3rd to F; 7 beats wide.
+- Up a 5th to C; .6 beat narrow.
+- Down an octave to the lower C; perfect.
+- Up a 5th to G; .4 beat narrow.
+- Up a 3rd to B; 7.75 beats wide.
+- Down a 5th to E; .55 beat narrow.
+- Cross-check between the E and lower C; both already tuned. Should be just over
+  5 beats wide.
+- Cross-check all the 4ths and ensure they are neither lifeless nor beating
+  rapidly. In particular, the interval D-G is quite important, and there are 5
+  steps in the tuning sequence between these notes, so it's a pretty sensitive
+  indicator of whether you've been getting the beats right.
+- Expand the octave to the rest of the instrument by octaves. At each note, cross-check
+  against any already-tuned notes and ensure 5ths, 4ths, and 3rds are not
+  drifting and becoming cat-fights.
+
+A diagram might help. The arrows indicate which note to tune from the current
+note and in what order. The 'n' and 'w' notation indicates how narrow or wide
+the intervals should be.
+
+![Tuning the Diatonic C Scale](/media/2014/01/tuning-c-scale.png)
+
+If your diatonic instrument is tuned in the key of G, you can use this sequence
+instead:
+
+![Tuning the Diatonic G Scale](/media/2014/01/tuning-g-scale.png)
+
+Note that in both cases, you are essentially tuning successive major and minor
+chords, although when you stay within the confines of a single octave you
+sometimes only have an inversion tuned unless you include a note outside the
+octave. Of course, you can include more notes, but if you're having a hard time
+getting things to sound good together then you probably have some imprecision
+(trouble counting beats?) and adding more notes might make it harder for you to
+close the loop, so to speak.
+
 ### Beyond Tuning Theory: The Real World
 
 Although simple math can compute the theoretically correct frequencies of notes
@@ -580,6 +683,13 @@ The nuances and deviations from perfect theory are the main reasons why a) it's
 impossible to tune anything perfectly and b) an instrument that's tuned
 skillfully by ear sounds glorious, whereas an instrument tuned digitally can
 sound lifeless.
+
+(In many cases it's really convenient to use a digital tuner to bring things
+pretty close, then go through one of the sequences explained above to
+cross-check. This can save a lot of time when an instrument is very out-of-tune
+and shifts a lot during tuning, in which case it'll be out again when you're
+done. If you need to make multiple passes to bring things close to tune, digital
+tuners are great time savers.)
 
 #### Harmonics, Overtones, and Partials
 
