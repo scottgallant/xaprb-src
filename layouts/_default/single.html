@@ -9,6 +9,13 @@
 		{{ partial "share.html" . }}
   </span>
   {{ .Content }}
+  <hr>
+  <h2>About The Author</h2>
+  <p>Baron is the founder and CEO of <a href="https://vividcortex.com/">VividCortex</a>. He is the author of High
+  Performance MySQL and many open-source tools for performance analysis, monitoring, and system administration.
+  Baron contributes to various database communities such as Oracle, PostgreSQL, Redis and MongoDB.</p>
+
+
   {{ if .Site.Params.DisqusUser }}
   {{ partial "disqus.html" . }}
   {{ end }}
