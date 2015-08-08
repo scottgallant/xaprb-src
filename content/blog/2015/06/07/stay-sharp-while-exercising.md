@@ -4,7 +4,7 @@ author: Baron Schwartz
 categories:
 - Life Hacking
 date: 2015-06-07
-description: Intense exercise brings energy and clarity, but also tiredness the next day. How can you avoid this?
+description: "Intense exercise brings energy and clarity, but also tiredness the next day. How can you avoid this?"
 ---
 
 In my [last blog post](/blog/2015/06/05/maximize-productivity-in-three-easy-steps/) I explained how to reclaim your mornings and make them the most productive time of day. In this one I'll explain how exercise makes my mornings better, and how I avoid feeling sluggish after overdoing it.
