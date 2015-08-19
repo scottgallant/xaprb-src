@@ -102,26 +102,13 @@ In fact, if you're in a transaction, `LOCK TABLES` seems to "kick you out" of th
 
 Who, indeed? The text I included above is a pain to read, and it's not even representative of what you'll really be looking at. For one thing, you might have to scan through 40 or more transactions to find the ones you care about, and then there's all the other information in the output, some of which can be voluminous (such as deadlocks). What a hassle!
 
-Fortunately, there's a tool to do that for you: `<a href="/blog/2006/07/02/innotop-mysql-innodb-monitor/">innotop</a>`. This tool formats the output neatly and gives you filtering options to display only transactions with locks (or just sort them to the top of the display). Here's how you can do that:
+Fortunately, there's a tool to do that for you: `innotop`. This tool formats the output neatly and gives you filtering options to display only transactions with locks (or just sort them to the top of the display). Here's how you can do that:
 
-Start innotop and use the "T" key to enter InnoDB Transaction mode, if it's not already in that mode. You will see a list of transactions. Next, make the "Locks," "Tbl Used," and "Tbl Lck" columns visible. Press the "c" key to activate the "choose columns" dialog:
-
-[<img src="/innotop/thumb-innotop-choose-columns.png" alt="innotop screenshot" width="200" height="118" />](/innotop/innotop-choose-columns.png)
-
-Press Return and you should see something that looks like this:
-
-[<img src="/innotop/thumb-innotop-default-T-display.png" alt="innotop screenshot" width="200" height="118" />](/innotop/innotop-default-T-display.png)
+Start innotop and use the "T" key to enter InnoDB Transaction mode, if it's not already in that mode. You will see a list of transactions. Next, make the "Locks," "Tbl Used," and "Tbl Lck" columns visible. Press the "c" key to activate the "choose columns" dialog.
 
 Now sort transactions with locks to the top by pressing the "s" key and choosing "lock\_structs" as the sort column. You may need to press the "r" key afterwards to reverse the sort order if they go to the bottom instead. Alternatively, you can use the "w" key to add a filter on the "lock\_structs" column, such as "[1-9]" to match only rows where the column isn't zero (this is a handy filter to add in general, just so you can see how many transactions have locks).
 
-Here's a screenshot of me changing the sort column, and adding a filter:
-
-[<img src="/innotop/thumb-innotop-choose-sort-column.png" alt="innotop screenshot" width="200" height="118" />](/innotop/innotop-choose-sort-column.png)[<img src="/innotop/thumb-innotop-add-filter.png" alt="innotop screenshot" width="200" height="118" />](/innotop/innotop-add-filter.png)
-
-And here's a screenshot of the result:
-
-[<img src="/innotop/thumb-innotop-filtered-view.png" alt="innotop screenshot" width="200" height="118" />](/innotop/innotop-filtered-view.png) 
-In this example you could see the locks without hiding the other rows, but when you have a very busy server it can really help to hide all the transactions without locks.
+When you have a very busy server it can really help to hide all the transactions without locks.
 
 Isn't that easier than digging through the output of `SHOW ENGINE INNODB STATUS`? I think so.
 
