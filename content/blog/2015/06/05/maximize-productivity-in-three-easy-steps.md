@@ -190,6 +190,11 @@ in a later post.
 If you try my suggestions, please use the comments to let me know how it works
 for you, and what other suggestions you have.
 
+### References
+
+- [Ben Franklin's daily
+  routine](http://goodmenproject.com/featured-content/dtv-benjamin-franklin/)
+
 Photo credits: [sky](https://www.flickr.com/photos/motii/17737301028/),
 [tree](https://www.flickr.com/photos/photographyburns/5936921799/),
 [flower](https://www.flickr.com/photos/93277085@N08/15334872208/),

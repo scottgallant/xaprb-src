@@ -16,6 +16,11 @@ You're also likely not as good at being secure as you think you are. If you're l
 
 The simplest and most effective way to dramatically boost your online security is **use a password storage program**, or password safe. You need to *stop making passwords you can remember* and make long, random passwords on websites. The only practical way to do this is to use a password safe. 
 
+> Update: Security experts from Google disagree with me and suggest that the
+> most important thing to do is to install security updates. I defer to them; I
+> think they know more about security than I do. Please [read more
+> here](http://googleonlinesecurity.blogspot.com/2015/07/new-research-comparing-how-security.html).
+
 Why? Because if you can remember the password, it's [trivially hackable](http://arstechnica.com/security/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/). For example, passwords like 10qp29wo38ei47ru can be broken instantly. Anything you can feasibly remember is just too weak. 
 
 And, any rule you set for yourself that requires self-discipline will be violated, because you're lazy. **You need to make security easier so that you automatically do things more securely**. A password safe is the best way to do that, by far. A good rule of thumb for most people is that you should not try to know your own passwords, except the password to your password safe. (People with the need to be hyper-secure will take extraordinary measures, but those aren't practical or necessary for most of us.) 
@@ -113,6 +118,9 @@ Unfortunately, most websites don't support two-factor authentication. Fortunatel
 
 Also, **please save the recovery codes in your password safe** so if you
 lose/destroy your two-factor device you can regain access to the account.
+An easy way to do this is to take a screenshot of the QR code when you associate
+your account with Google Authenticator and save the screenshot in your password
+vault.
 
 Another suggestion I've heard, for websites and services that don't offer strong security and for which you don't want or need to remember or store a password, is to just reset your password every single time you log in. In this way, your email account effectively becomes external authentication, and every password becomes single-use. You click "forgot password," check your email, click on the link there, enter some random gibberish (best generated with `pwgen 50` or similar) for your "new password" that you're never going to use again, and log in.
 
@@ -135,13 +143,6 @@ All of this is easily preventable. Given that one or more of your devices will s
 *   Keep records of your devices' make, model, serial number, and so on. Prey Project makes this easy. 
 *   On your phone or tablet, customize the lockscreen with a message such as "user@email.com &#8211; reward if found" and on your laptops, stick a small label inside the lid with your name and phone number. You never know if a nice person will return something to you. I know I would do it for you.
 
-### External Links and Resources
-
-* http://twofactorauth.org
-* [How PayPal and GoDaddy exposed someone to account theft](https://medium.com/p/24eb09e026dd)
-* [Good advice on common password misconceptions](https://www.qwertycards.com/strong_passwords.html)
-* [Storing SSH Keys on a USB Drive for 2-Factor Auth](http://tammersaleh.com/posts/building-an-encrypted-usb-drive-for-your-ssh-keys-in-os-x/)
-
 ### Things that don't help
 
 Finally, here are some techniques that aren't as useful as you might have been told. 
@@ -159,8 +160,16 @@ Here is a summary of the most valuable steps you can take to protect yourself:
 *   Use two-factor authentication for all services that support it. 
 *   Encrypt your hard drives, phones and tablets, and backups, and use a password or code to lock all computers, phones, tablets, etc when you turn them off, leave them idle, or put them to sleep. 
 *   Install something like Prey Project on your portable devices, and label them so nice people can return them to you. 
-*   Write down the location and access instructions (including passwords) for your password safe, computer, backup hard drives, etc and put it in a safe deposit box. Friends try not to let friends get hacked and ruined. Don't stop at upgrading your own security. Please tell your friends and family to do it, too! 
+*   Write down the location and access instructions (including passwords) for your password safe, computer, backup hard drives, etc and put it in a safe deposit box.
+* Friends try not to let friends get hacked and ruined. Don't stop at upgrading your own security. Please tell your friends and family to do it, too! 
 
 Do you have any other suggestions? Please use the comments below to add your thoughts.
 
 
+### Further Reading
+
+* http://twofactorauth.org
+* [How PayPal and GoDaddy exposed someone to account theft](https://medium.com/p/24eb09e026dd)
+* [Good advice on common password misconceptions](https://www.qwertycards.com/strong_passwords.html)
+* [Storing SSH Keys on a USB Drive for 2-Factor Auth](http://tammersaleh.com/posts/building-an-encrypted-usb-drive-for-your-ssh-keys-in-os-x/)
+* [Stronger 2-Factor with a Security Key](http://googleonlinesecurity.blogspot.com/2014/10/strengthening-2-step-verification-with.html)

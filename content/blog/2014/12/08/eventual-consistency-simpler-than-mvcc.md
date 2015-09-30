@@ -175,6 +175,10 @@ for MySQL was going to use "pure MVCC" in contradistinction to InnoDB's "mixed
 MVCC," whatever that means. Falcon, naturally, also had "quirks" in its MVCC
 implementation.
 
+Serializable isolation is fairly clear, but understanding what the other systems
+actually provide is really hard. And even when you understand what they're
+supposed to provide, documentation and implementation bugs make it even worse.
+
 Let's dig into a few of these implementations a bit and see what's really the
 situation.
 
@@ -364,6 +368,15 @@ right now I am probably in the same position most of my readers are: the two
 viable choices seem to be single-node MVCC and multi-node eventual consistency.
 And I don't think MVCC is the simpler paradigm of the two.
 
+### References
+
+Further reading:
+
+- [Adrian Colyer on quantifying isolation
+  anomalies](http://blog.acolyer.org/2015/09/03/quantifying-isolation-anomalies/)
+- [Kyle Kingsbury on Galera
+  Cluster](https://aphyr.com/posts/328-call-me-maybe-percona-xtradb-cluster)
+
 Notes:
 
 1. If you don't [tweet](//twitter.com/xaprb) me puns and acid-cat meme pictures about this paragraph, I shall be disappointed in you.
@@ -373,6 +386,7 @@ Notes:
 	the only sensible thing to do. It's not quite clear to me whether this is
 	meant to imply that it's the only sensible way to implement MVCC, or the only
 	sensible way to implement PostgreSQL's MVCC.
+
 
 Pic credits:
 

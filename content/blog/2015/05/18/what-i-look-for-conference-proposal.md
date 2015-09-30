@@ -187,4 +187,8 @@ time, so I wrote a long rambling one instead.
 
 Sorry about that.
 
+### Further Reading
+
+- [Daniel Schauenberg on conference prep](https://unwiredcouch.com/2015/09/25/talk-prep.html)
+
 [Photo by William Iven](https://unsplash.com/photos/SpVHcbuKi6E/)
