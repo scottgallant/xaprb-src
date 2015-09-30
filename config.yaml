@@ -5,7 +5,7 @@ publishdir: "../xaprb-web/"
 params:
    author: "Baron Schwartz"
    Tagline: "Stay Curious!"
-   Title: "Xaprb"
+   Title: "Baron Schwartz's Blog"
    GoogleAnalytics: "UA-101883-1"
    Swiftype: "Dq2t2TnFxXxWs_y9hi1k"
    domain: "xaprb.com"
