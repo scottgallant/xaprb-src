@@ -3,6 +3,7 @@ categories:
 - Commentary
 date: 2015-09-29T22:04:16-07:00
 title: "Why I Don't Give Personal Tech Support"
+description: "Helping one person at a time doesn't scale"
 ---
 
 I don't give personal, one-to-one technical support for open source software
