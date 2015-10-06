@@ -13,6 +13,8 @@ wrong (with the best intentions). It's not comprehensive, but I  hope it will
 help point out "low-hanging fruit" for interested people. Hopefully you'll be
 able to avoid some of the mistakes as a result.
 
+![audience](/media/2015/10/audience.jpg)
+
 <!--more-->
 
 ### Know Your Audiences
@@ -268,3 +270,5 @@ In this post I've tried to focus on things that conferences seem to get wrong
 repeatedly because they're non-obvious mistakes.
 
 Feedback is welcome!
+
+[pic credit](https://www.flickr.com/photos/presta/104538840/)
