@@ -2,6 +2,7 @@
 title: "Making High Performance MySQL's New Website"
 description: "A sweet cover image makes all the difference."
 date: "2015-02-07"
+image: /media/2015/02/hpm-cover-perspective.png
 categories:
   - Writing
 ---

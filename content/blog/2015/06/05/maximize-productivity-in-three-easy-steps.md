@@ -2,6 +2,7 @@
 title: Boost Your Productivity In Three Easy Steps
 description: "If you feel that you spend your time doing 'stuff' and getting nothing done, maybe it's time for a few simple changes."
 date: 2015-06-05
+image: /media/2015/06/sky.jpg
 categories:
   - Life Hacking
 ---

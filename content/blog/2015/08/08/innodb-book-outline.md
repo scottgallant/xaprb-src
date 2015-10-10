@@ -5,6 +5,7 @@ categories:
 date: 2015-08-08T17:24:37-04:00
 title: "An Outline for a Book on InnoDB"
 description: "This would have been epic. Epic. EPIC. But it never happened."
+image: /media/2015/08/iceberg.jpg
 ---
 
 Years ago I pursued my interest in InnoDB's architecture and design, and became impressed with its sophistication. Another way to say it is that [InnoDB is complicated, as are all MVCC databases](/blog/2014/12/08/eventual-consistency-simpler-than-mvcc/). However, InnoDB manages to hide the bulk of its complexity entirely from most users.

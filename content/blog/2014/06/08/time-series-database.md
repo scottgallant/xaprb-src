@@ -5,6 +5,7 @@ date: "2014-06-08"
 url: /blog/2014/06/08/time-series-database-requirements/
 categories:
   - Databases
+image: /media/2014/06/timeseries.jpg
 ---
 
 I've had conversations about time-series databases with many people over the last couple of years. I [wrote previously](/blog/2014/03/02/time-series-databases-influxdb/) about some of the open-source technologies that people commonly use for time-series storage.

@@ -3,6 +3,7 @@ categories:
   - Hardware
   - Programming
 date: 2015-03-01T13:51:18-05:00
+image: /media/2015/03/zt_0001-thumb.jpg
 title: The Age Of Smart Machines
 description: "I'm not sure we've any idea what computers are capable of."
 ---

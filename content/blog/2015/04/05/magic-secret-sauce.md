@@ -4,6 +4,7 @@ categories:
 date: 2015-04-05T13:51:18-05:00
 title: Beware Of The Only Correct Way To Do It
 description: "Beware of blog posts warning you to beware of things, too."
+image: /media/2015/04/mugs.jpg
 ---
 
 Everyone who's been successful at creating something remarkable, and scaling it,

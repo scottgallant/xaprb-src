@@ -5,6 +5,7 @@ date: "2014-07-05"
 url: /blog/2014/07/05/on-focus/
 categories:
   - Life Hacking
+image: /media/2014/05/rainbokeh.jpg
 ---
 
 Focus is perhaps the most important attribute in an organization. In fact, my dictionary defines an organization as "an organized body of people with a particular purpose..." A focused organization recognizes and cleaves to its purpose.

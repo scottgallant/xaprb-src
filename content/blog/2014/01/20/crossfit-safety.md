@@ -5,6 +5,7 @@ description: "I love Crossfit. I just don't always love the coaches and the move
 url: /blog/2014/01/20/crossfit-safety/
 categories:
   - Health
+image: /media/2014/01/9117226687_6e903b5c1b.jpg
 ---
 I've been a happy CrossFiter for a few years now. I met my co-founder and many
 friends in [CrossFit Charlottesville](http://crossfitcharlottesville.com/), completely changed my level of fitness

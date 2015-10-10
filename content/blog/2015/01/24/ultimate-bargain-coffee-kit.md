@@ -2,6 +2,7 @@
 title: "The Ultimate Bargain Coffee Kit"
 description: "If you're a coffee snob, here's your ticket to heaven."
 date: "2015-01-24"
+image: /media/2015/01/coffee.jpg
 categories:
   - Hardware
 ---

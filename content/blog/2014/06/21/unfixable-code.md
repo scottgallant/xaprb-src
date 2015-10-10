@@ -5,6 +5,7 @@ date: "2014-06-21"
 url: /blog/2014/06/21/unfixable-code/
 categories:
   - Programming
+image: /media/2014/06/humpty.jpg
 ---
 
 Over the years I've come to believe something that I'm not sure others will

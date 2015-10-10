@@ -4,6 +4,7 @@ categories:
 date: 2015-07-21T14:46:49-07:00
 title: "Surprising Database Bottlenecks You'll Never See Coming"
 description: "Your database bottleneck isn't CPU, I/O, query performance or scalability after all."
+image: /media/2015/07/bottleneck.jpg
 ---
 
 I've been invited to speak at a joint meeting of the [Austin MySQL

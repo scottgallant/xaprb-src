@@ -13,6 +13,7 @@ params:
    RecentLimit: 20
    DisqusUser: "xaprb"
    LanyonOptions: "layout-reverse sidebar-overlay"
+   Twitter: "@xaprb"
 MetaDataFormat: "yaml"
 Paginate: 20
 Taxonomies:

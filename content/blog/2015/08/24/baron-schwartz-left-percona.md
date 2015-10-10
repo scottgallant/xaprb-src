@@ -4,6 +4,7 @@ categories:
 date: 2015-08-24T15:11:30-04:00
 title: Baron Schwartz Left Percona
 description: "Yes, in 2012 I quietly left Percona to found VividCortex."
+image: /media/2015/08/google.png
 ---
 
 A number of people have commented to me over the last few years that when they

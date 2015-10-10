@@ -5,6 +5,7 @@ date: "2014-06-24"
 url: /blog/2014/06/24/meditate-at-velocity/
 categories:
   - Conferences
+image: /media/2014/06/stones.jpg
 ---
 
 Join me and other [Velocity](http://velocityconf.com/) attendees during the Wednesday afternoon 2:40pm break for a 10-15 minute guided meditation session appropriate for people of any faith or of none.

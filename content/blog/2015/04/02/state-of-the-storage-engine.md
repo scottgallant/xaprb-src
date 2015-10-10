@@ -4,6 +4,7 @@ categories:
 date: 2015-04-02T03:51:18-05:00
 title: State Of The Storage Engine - DZone
 description: "For the first time in decades, there's actual innovation in databases."
+image: /media/2015/04/boardwalk.jpg
 tags:
   - PostgreSQL
   - MongoDB

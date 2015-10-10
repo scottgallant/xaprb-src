@@ -5,6 +5,7 @@ date: "2014-03-02"
 url: /blog/2014/03/02/time-series-databases-influxdb/
 categories:
   - Databases
+image: /media/2014/03/alice.jpg
 ---
 
 Time-series databases are of particular interest to me these days. Not only is

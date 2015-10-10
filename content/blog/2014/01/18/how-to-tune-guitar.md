@@ -5,6 +5,7 @@ description: "Once you hear it, you'll never listen to music the same way again.
 url: /blog/2014/01/18/how-to-tune-guitar/
 categories:
   - Music
+image: /media/2014/01/guitar-tuning.jpg
 ---
 Do you know how to tune a guitar? I mean, do you *really* know how to tune a
 guitar?

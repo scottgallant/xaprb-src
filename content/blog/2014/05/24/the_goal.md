@@ -6,6 +6,7 @@ url: /blog/2014/05/24/the-goal/
 categories:
   - Programming
   - Reviews
+image: /media/2014/05/horse-race.jpg
 ---
 
 Once upon a time I managed several teams of consultants. At a certain stage of the organization's growth, we wanted to achieve a higher billable-time utilization more easily, and we wanted more structure and process.

@@ -8,6 +8,7 @@ categories:
   - Databases
 tags:
   - PostgreSQL
+image: /media/2014/12/puzzle.jpg
 ---
 
 This should sound familiar:

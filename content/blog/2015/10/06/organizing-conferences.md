@@ -4,6 +4,7 @@ categories:
 date: 2015-10-06T10:53:36-04:00
 title: How to Organize a Tech Conference
 description: "Some suggestions to help conference organizers avoid serious non-obvious mistakes"
+image: /media/2015/10/audience.jpg
 ---
 
 Running a conference is hard work, and lots of things need to come together in

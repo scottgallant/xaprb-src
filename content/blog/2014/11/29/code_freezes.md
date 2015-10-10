@@ -6,6 +6,7 @@ url: /blog/2014/11/29/code-freezes-dont-prevent-outages/
 categories:
   - Programming
   - Operations
+image: /media/2014/11/freeze.png
 ---
 
 I have $10 that says you've experienced this before: there's a holiday, trade show, or other important event coming up. Management is worried about the risk of an outage during this all-important time, and restricts deployments from the week prior through the end of the event.
