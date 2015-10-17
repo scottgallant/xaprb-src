@@ -94,7 +94,7 @@ I'd like a database that does one thing well. I do not think I need any of the f
 * Ability to visualize data, draw graphs, etc.
 * Support for multiple measurements at the same timestamp. The measurement's primary key is `series,timestamp` and it does not make sense to allow multiple values with the same timestamp.
 * Multi-dimensionality. Multiple dimensions for a series can be stored as multiple series, and multiple series can be combined in expressions with the query language I specified, so the atom of "series" already provides for the use case of multi-dimensionality.
-* "Tagging" measurements or series with additional ad-hoc key-value pairs.
+* "Tagging" measurements or series with additional ad-hoc key-value pairs. (**Update**: I now see [the use case for tagging](/blog/2015/10/16/time-series-tagging/).
 * Joins from time-series data to relational data.
 
 ### Bonus and Additional Features
