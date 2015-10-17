@@ -118,6 +118,14 @@ The future of "big data" is mostly time-series. Someone who creates a good time-
 such use cases will probably do quite well. I'm sure my requirements aren't the
 most general-purpose or complete, but I hope it's useful to share anyway.
 
+Updates and related reading:
+
+- [Jason Moiron's Thoughts on Time-series Databases](http://jmoiron.net/blog/thoughts-on-timeseries-databases)
+- [Preetam Jinka's Design Notes on Catena](http://misfra.me/state-of-the-state-part-iii/)
+- [Time-Series Databases and InfluxDB](/blog/2014/03/02/time-series-databases-influxdb/)
+- [InfluxDB's Storage Engine](https://influxdb.com/docs/v0.9/concepts/storage_engine.html)
+- [The Case For Tagging In Time Series Data](/blog/2015/10/16/time-series-tagging/)
+
 Pic credits:
 
 * [Seasons](https://www.flickr.com/photos/hugovk/6798051186/)
