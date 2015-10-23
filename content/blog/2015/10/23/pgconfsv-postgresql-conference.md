@@ -6,7 +6,7 @@ categories:
 - Open Source
 date: 2015-10-23T13:52:35-04:00
 description: "PGConfSV is a conference for the Silicon Valley PostgreSQL community and beyond, featuring leading PostgreSQL performance and scalability experts."
-image: ""
+image: "/media/2015/10/ssfcc.jpg"
 title: "Don't Miss PGConfSV, Silicon Valley's Newest PostgreSQL Conference"
 ---
 
