@@ -10,16 +10,17 @@ image: "/media/2015/11/quantiles.png"
 title: Setting Thresholds With Quantiles
 ---
 
-I was talking with someone the other day about a visualization that could help
-figure out a reasonable value for a threshold on a metric. As I've
+I was talking with someone the other day about a visualization I remembered
+seeing some years ago, that could help set a reasonable value for a threshold on
+a metric. As I've
 [written](https://www.vividcortex.com/blog/2013/04/10/2-reasons-why-threshold-based-monitoring-is-hopelessly-broken/),
 thresholds are basically a broken way to monitor systems, but if you're going to
-use them, I think there's a lot you can do to avoid making threshold values
-*completely* arbitrary.
+use them, I think there are simple things you can do to avoid making threshold
+values *completely* arbitrary.
 
-I couldn't find the place I'd seen the visualization (if you do, please
-comment!) so I decided to just blog about it. Suppose you start off with a time
-series:
+I couldn't find the place I'd seen the visualization (if you know prior art for
+the below, please comment!) so I decided to just blog about it. Suppose you
+start off with a time series:
 
 ![time series](/media/2015/11/time-series.png)
 
