@@ -30,7 +30,7 @@ story I could tell on stage. If you're not familiar with Ignite, it's a format
 in which exactly twenty slides advance automatically after fifteen seconds each,
 for a total of five minutes.
 
-I had to wing it to some extent, and I while speaking I thought one of the
+I had to wing it to some extent, and while speaking I thought one of the
 slides might even have gotten lost in the void of the internet and I had to skip
 some stuff I'd planned (it was really confusing to see what slide was on
 screen), but I got through it. Below I'm sharing my notes---which I did not
@@ -93,7 +93,7 @@ to live it to know it.
 
 ![ignite-00006.jpg](/media/2015/11/ignite-00006.jpg)
 
-Everyone wants something from me. customers, employees, investors, community,
+Everyone wants something from me. Customers, employees, investors, community,
 family, vendors, governments. The amount of time and energy left over for myself
 is very small. Personal and company demands are often in conflict.
 
