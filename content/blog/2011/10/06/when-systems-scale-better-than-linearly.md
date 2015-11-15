@@ -17,3 +17,6 @@ Dr. Ronstrom's post discusses the mechanics of the phenomenon, and speculates (I
 The good thing about the Universal Scalability Law is how simple and applicable it is for many systems. It's nice that this economy-of-scale factor seems to be unusual and the simpler model remains easy to apply for a large variety of tasks.
 
 
+
+If you're interested in learning more, I wrote an [ebook about the Universal
+Scalability Law](https://www.vividcortex.com/resources/universal-scalability-law/).

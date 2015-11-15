@@ -25,4 +25,5 @@ Ah. But do you then have **a** database, or do you have **many**? You have many,
 
 When you're designing a system of any kind, it's smart to keep in mind that a lot of technologies have practical limits that can't be exceeded. They may grow with time and Moore's Law, but they represent a cap you can't get around without doing something differently.
 
-
+If you're interested, I wrote an [ebook about the Universal Scalability
+Law](https://www.vividcortex.com/resources/universal-scalability-law/).

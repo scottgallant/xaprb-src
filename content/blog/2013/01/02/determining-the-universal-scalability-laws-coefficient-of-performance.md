@@ -22,4 +22,5 @@ To model the USL, you need to determine C(1) by measuring the system under test.
 
 The result goes into the numerator as a multiplier of N, although it's usually omitted when the USL formula is shown.
 
-
+If you're interested in learning more, I wrote an [ebook about the Universal
+Scalability Law](https://www.vividcortex.com/resources/universal-scalability-law/).

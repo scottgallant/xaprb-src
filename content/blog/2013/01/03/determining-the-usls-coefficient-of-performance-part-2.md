@@ -23,3 +23,6 @@ In practice, I tend to combine methods 2 and 3. I use method 2 to find a startin
 What if you don't have measurements at N=1? The best approach, in my experience, is to take the slope of the line from the first data point you have, and use that. N=1 will almost always be higher than this, because real systems are rarely linearly scalable. That's okay. If you let the regression adjust the coefficient as needed for the best fit, you'll end up with a good answer anyway.
 
 
+
+If you're interested in learning more, I wrote an [ebook about the Universal
+Scalability Law](https://www.vividcortex.com/resources/universal-scalability-law/).

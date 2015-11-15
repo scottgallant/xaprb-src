@@ -12,3 +12,6 @@ I've measured quite a few systems that have some strange bubbles in the scalabil
 So, for those of you who are curious about this, I now stop blathering and simply [direct you to Neil Gunther's blog to read more](http://perfdynamics.blogspot.com/2011/02/usl-fine-point-sub-amdahl-scalability.html).
 
 
+
+If you're interested in learning more, I wrote an [ebook about the Universal
+Scalability Law](https://www.vividcortex.com/resources/universal-scalability-law/).
