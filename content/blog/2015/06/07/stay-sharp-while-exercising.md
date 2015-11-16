@@ -30,7 +30,7 @@ Here's what I do to help avoid this.
 
 ### 1. No Coffee After Noon
 
-I'm not a big coffee drinker (though I am somewhat of a [coffee snob](blog/2015/01/24/ultimate-bargain-coffee-kit/)), but even a single cup of coffee or strong tea after noon can affect my sleep pretty dramatically.
+I'm not a big coffee drinker (though I am somewhat of a [coffee snob](/blog/2015/01/24/ultimate-bargain-coffee-kit/)), but even a single cup of coffee or strong tea after noon can affect my sleep pretty dramatically.
 
 I've tested this to my satisfaction, noting how tired I feel in the morning versus how much coffee I had the day before, and so forth.
 
