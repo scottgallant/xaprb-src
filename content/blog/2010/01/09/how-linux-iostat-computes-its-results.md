@@ -1,15 +1,22 @@
 ---
-title: How Linux iostat computes its results
+title: How Linux iostat Computes Metrics
 date: "2010-01-09"
 url: /blog/2010/01/09/how-linux-iostat-computes-its-results/
+image: "media/2010/01/layers.jpg"
 categories:
   - Databases
   - Open Source
   - Operations
+  - Monitoring
 tags:
   - PostgreSQL
 ---
-`iostat` is one of the most important tools for measuring disk performance, which of course is very relevant for database administrators, whether your chosen database is Postgres, MySQL, Oracle, or anything else that runs on GNU/Linux. Have you ever wondered where statistics like await (average wait for the request to complete) come from? If you look at the disk statistics the [Linux kernel makes available through files such as /proc/diskstats](http://www.mjmwired.net/kernel/Documentation/iostats.txt), you won't see await there. How does iostat compute await? For that matter, how does it compute the average queue size, service time, and utilization? This blog post will show you how that's computed.
+The `iostat` tool is one of the most important for measuring disk performance, which of course is very relevant for database administrators, whether your chosen database is Postgres, MySQL, Oracle, or anything else that runs on GNU/Linux. Have you ever wondered where statistics like await (average wait for the request to complete) come from? If you look at the disk statistics the [Linux kernel makes available through files such as /proc/diskstats](http://www.mjmwired.net/kernel/Documentation/iostats.txt), you won't see await there. How does iostat compute await? For that matter, how does it compute the average queue size, service time, and utilization? This blog post will show you how that's computed.
+
+
+![Layers](/media/2010/01/layers.jpg)
+
+<!--more-->
 
 First, let's look at the fields in /proc/diskstats. The order and location varies between kernels, but the following applies to 2.6 kernels. For reads and writes, the file contains the number of operations, number of operations merged because they were adjacent, number of sectors, and number of milliseconds spent. Those are available separately for reads and writes, although iostat groups them together in some cases. Additionally, you can find the number of operations in progress, total number of milliseconds during which I/Os were in progress, and the weighted number of milliseconds spent doing I/Os. Those are not available separately for reads and writes.
 
@@ -29,6 +36,37 @@ Now, given two samples of I/O statistics and the time elapsed between them, we c
 *   await is the total time for all I/O operations summed, divided by the number of I/O operations completed.
 *   svctm is the most complex to derive. It is the utilization divided by the throughput. You saw utilization above; the throughput is the number of I/O operations in the time interval.
 
-Although the computations and their results seem both simple and cryptic, it turns out that you can derive a lot of information from the relationship between these various numbers. This is one of those tools where a few lines of code have a surprising amount of meaning, which is left for the reader to understand. I'll get more into that in the future.
+Although the computations and their results seem both simple and cryptic, it turns out that you can derive a lot of information from the relationship between these various numbers.
 
+I've shown how the numbers are computed, but now you might ask, why are those things true? Why are those the correct relationships to use when computing these metrics?
+
+The answer lies in several interrelated theories and properties:
+
+1. Queueing Theory. This is the study of "customers" arriving at "servers" to be
+	serviced. In the disk's case, the customers are I/O requests, and the disks
+	are the servers. Queueing theory explains the relationship between the length
+	of the queue, the number of requests resident in the entire system at a given
+	time, the amount of time spent waiting, the amount of time being serviced
+	once you stop waiting and reach a device, and so on. The terminology iostat
+	uses is rather confusing when compared to queueing theory's standard
+	terminology. For example, avgqu-sz seems to be called "average queue size,"
+	but strictly speaking, it is actually the average number of requests
+	*resident*, not just queued. The number queued is a smaller number than those
+	resident.
+2. Little's Law. If you don't know Little's Law, you should really learn it. It
+	states that in a stable system, where all requests eventually complete, then
+	over the long run, L = &lambda;W, or as I prefer to state it, N=XR. The number of
+	requests (customers) resident in the system (whether queued or in service) is
+	L or N. It is equal to the arrival rate &lambda; (or throughput X) times the
+	residence time W (or response time R).
+3. The utilization law, &rho; = &lambda;S. This states that utilization is
+	throughput times service time.
+
+If you'd like to learn more about queueing theory and these relationships, I
+encourage you to do so. It's really required material for anyone doing
+performance-related work in my opinion. I also happen to have written what I
+believe is the most accessible and comprehensible [introduction to queueing
+theory](https://www.vividcortex.com/resources/queueing-theory/) available.
+
+Image by [doug88888](https://www.flickr.com/photos/doug88888/3139395660).
 
