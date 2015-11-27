@@ -58,7 +58,7 @@ A lot of the tests are just fluff. They're like horoscopes, designed to sound me
 
 Ironically, you can usually tell the smoke-and-mirrors tests by looking at how polished and slick the reports are. The better tests are usually more concerned with information than appearances.
 
-In particular, my personal belief is that the Myers-Briggs Type Indicator, which is the most popular and well-known by far, is meaningless. I am not the only one to believe this; just read up on the history of the people who commercialized it, and all of the psychologists who have failed to validate its results. It's anecdotal hand-waving. And after you've studied other assessments for a while, the model the MBTI uses to try to explain peoples' personalities looks like a toy in comparison. It just makes no sense. I'll let you study this on your own if you're interested. For a little light reading you might be interested in [how the MBTI types match up to patron saints](https://www.washingtonpost.com/news/acts-of-faith/wp/2015/03/29/for-holy-week-heres-how-you-can-match-your-myers-briggs-personality-type-to-a-patron-saint/).
+In particular, my personal belief is that the Myers-Briggs Type Indicator, which is the most popular and well-known by far, is not very revealing. After you've studied other assessments for a while, the MBTI looks weak in comparison. I'll let you study this on your own if you're interested. For a little light reading you might be interested in [how the MBTI types match up to patron saints](https://www.washingtonpost.com/news/acts-of-faith/wp/2015/03/29/for-holy-week-heres-how-you-can-match-your-myers-briggs-personality-type-to-a-patron-saint/).
 
 The better-quality assessments are based on well-known models of human psychology that were invented/discovered by researchers and have subsequently been commercialized, often by many companies. The Big Five and the DISC model are examples. There are many implementations of these models.
 
@@ -144,6 +144,38 @@ I did find the StandOut report to be more straightforward, but I don't think I h
 I also feel that the DISC and Values results are more well-developed and have benefited from being applied to many more people. For example, they've been used widely enough that they're evaluated in context of a culture (the report takes into account whether you're a Spanish-speaking American, for example). I think that provides a greater specificity.
 
 I do not use these assessments in hiring. I use TTI's more advanced reports (competencies and worldviews), which are only available in the paid reports. But for low-cost reports I think StandOut is a reasonable one you can use on a personal basis.
+
+### The Bhagavad-Gita
+
+And now for something completely different!
+
+Personality profiling and categorization isn't new. The Bhagavad-Gita's last
+third contains extensive discussion of the different types of people. It
+separates them into three major categories, each influenced by a
+*guna* (strand or quality).
+
+I don't take this seriously, and I don't think the last third of this great text
+is the most worthy of deep study. But it's still fun and interesting in some
+ways to think about how the author of the Gita categorizes people, their modes
+of worship, their types of action, the kinds of foods they eat, and so on:
+
+> When the light of knowledge shines forth<br>
+> through all the gates of the body,<br>
+> then it is apparent<br>
+> that *sattva* is the ruling trait.
+>
+> Greed and constant activity,<br>
+> excessive projects, cravings,<br>
+> restlessness: these arise<br>
+> when *rajas* is the ruling trait.
+>
+> Darkness, dullness, stagnation,<br>
+> indolence, confusion, torpor,<br>
+> inertia: these appear<br>
+> when *tamas* is the ruling trait.
+
+This excerpt is from [Stephen Mitchell's wonderful new translation of the
+Bhagavad-Gita](http://www.amazon.com/Bhagavad-Gita-Translation-Stephen-Mitchell/dp/0609810340/?tag=xaprb-20).
 
 ### Conclusions
 
