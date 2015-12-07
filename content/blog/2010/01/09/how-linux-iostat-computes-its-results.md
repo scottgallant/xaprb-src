@@ -3,6 +3,7 @@ title: How Linux iostat Computes Metrics
 date: "2010-01-09"
 url: /blog/2010/01/09/how-linux-iostat-computes-its-results/
 image: "media/2010/01/layers.jpg"
+description: "Explains how Linux iostat computes metrics such as await, queue size, and utilization; and more importantly, how to interpret those metrics"
 categories:
   - Databases
   - Open Source
