@@ -1,7 +1,9 @@
 ---
 author: Baron Schwartz
 categories:
-- Math and Statistics
+- Math
+- Databases
+- Scalability
 date: 2015-12-06T19:38:48-05:00
 description: ""
 image: ""
