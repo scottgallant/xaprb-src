@@ -5,8 +5,8 @@ categories:
 - Databases
 - Scalability
 date: 2015-12-06T19:38:48-05:00
-description: ""
-image: ""
+description: "This post shows several ways to estimate data points from an image of a chart. As an example, I analyze CitusDB's scalability from a YouTube screen capture."
+image: "media/2015/12/espresso.jpg"
 title: How to Extract Data Points From a Chart
 ---
 
