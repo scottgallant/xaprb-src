@@ -14,9 +14,7 @@ In this post I want to explain a little more about the moving averages I used fo
 
 A straightforward moving average just computes the average (mean) over the last N samples of data. In my case, I used 60 samples. This requires keeping an array of the previous N samples and updating the average for every sample.
 
-An exponential moving average doesn't require keeping samples. The average is a single number and you have a so-called "smoothing factor" &alpha;. For every new sample, you multiply the old average by 1-&alpha; and then add it to the new sample times &alpha;:
-
->   avg = (1-&alpha;) &middot; avg + &alpha; &middot; sample
+An exponential moving average doesn't require keeping samples. The average is a single number and you have a so-called "smoothing factor" &alpha;. For every new sample, you multiply the old average by 1-&alpha; and then add it to the new sample times &alpha;: \\( \\mathit{avg} = (1-\alpha) \\mathit{avg} + \alpha \\mathit{sample} \\)
 
 You can read more about that [here](https://www.vividcortex.com/blog/2014/11/25/how-exponentially-weighted-moving-averages-work/).
 
