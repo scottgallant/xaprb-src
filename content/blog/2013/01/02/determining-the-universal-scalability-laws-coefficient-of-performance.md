@@ -22,9 +22,9 @@ To illustrate why this matters, consider two systems' throughput as load increas
 
 ![coefficient of performance](/media/2013/01/coeff-of-performance.png)
 
-The green line and the blue line are both linearly scalable systems. Add twice the concurrency, get twice the throughput. But the slope of the lines is different. The green system can do three times as much work as the blue system, even though it's no more scalable.
+The green line and the blue line are both linearly scalable systems. Add twice the concurrency, get twice the throughput. But the slope of the lines is different. The blue system can do twice as much work as the green system, even though it's no more scalable.
 
-To model the USL, you need to determine C(1) by measuring the system under test. In my experience with real systems running in production, mostly MySQL servers, this is not simple. You can't just say "let's quiet the web app down, I want to load it with exactly one user for a few minutes and measure how fast it runs." Instead, you get a bunch of samples from production traffic, and you derive the throughput at concurrency=1 from that.
+To model the USL, you need to determine C(1) by measuring the system under test. In my experience with real systems running in production, mostly MySQL servers, this is not simple. You can't just say "let's quiet the web app down, I want to load it with exactly one user for a few minutes and measure how fast it runs." Instead, you get a bunch of samples from production traffic, and you [derive](/blog/2013/01/03/determining-the-usls-coefficient-of-performance-part-2/) the throughput at concurrency=1 from that.
 
 The result goes into the numerator as a multiplier of N, although it's usually omitted when the USL formula is shown.
 
