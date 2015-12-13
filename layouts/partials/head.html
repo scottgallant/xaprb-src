@@ -19,12 +19,15 @@
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
 
-  <!-- Twitter -->
+  <!-- Social/OpenGraph -->
+  <meta name="og:title" content="{{ .Title }}" />
+  <meta name="og:type" content="article" />
+  <meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}" />
+  <meta name="og:description" content="{{ .Description }}" />
+  <meta name="og:url" content="{{ .Permalink }}" />
+  <meta name="og:site_name" content="{{ .Site.Params.Title }}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="{{ .Site.Params.Twitter }}" />
-  <meta name="twitter:title" content="{{ .Title }}" />
-  <meta name="twitter:description" content="{{ .Description }}" />
-  <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.image }}" />
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/apple-touch-icon-144-precomposed.png">
