@@ -15,6 +15,19 @@
   Performance MySQL and many open-source tools for performance analysis, monitoring, and system administration.
   Baron contributes to various database communities such as Oracle, PostgreSQL, Redis and MongoDB.</p>
 
+<div class="pagination">
+  {{ if .Prev }}
+    <a class="pagination-item newer" href="{{ .Prev.URL }}">Newer</a>
+  {{ else }}
+    <span class="pagination-item newer">Newer</span>
+  {{ end }}
+  {{ if .Next }}
+    <a class="pagination-item older" href="{{ .Next.URL }}">Older</a>
+  {{ else }}
+    <span class="pagination-item older">Older</span>
+  {{ end }}
+</div>
+
 
   {{ if .Site.Params.DisqusUser }}
   {{ partial "disqus.html" . }}
