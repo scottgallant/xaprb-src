@@ -242,4 +242,4 @@ ending still holds, though.]*
 
 ### Video Of The Talk
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/jF3F0eBCSJs" frameborder="0" allowfullscreen></iframe>
+{{< youtube jF3F0eBCSJs >}}
