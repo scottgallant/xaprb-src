@@ -1,7 +1,7 @@
 baseurl: 'http://www.xaprb.com/'
 blackfriday:
   plainIdAnchors: true
-publishdir: "../xaprb-web/"
+publishdir: public
 params:
    author: "Baron Schwartz"
    Tagline: "Stay Curious!"
