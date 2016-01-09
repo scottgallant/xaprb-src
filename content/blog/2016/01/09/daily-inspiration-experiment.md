@@ -3,8 +3,8 @@ author: Baron Schwartz
 categories:
 - Life Hacking
 date: 2016-01-09T14:00:16-05:00
-description: ""
-image: ""
+description: "I made my daily devotional time public. Here's what I learned."
+image: "media/2016/01/snowflake.jpg"
 title: My Daily Inspiration Experiment
 ---
 
