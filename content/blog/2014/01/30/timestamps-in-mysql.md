@@ -1,8 +1,9 @@
 ---
 title: "A simple rule for sane timestamps in MySQL"
-description: "This one weird trick will change your life."
+description: "This one weird timestamp trick will change your life."
 date: "2014-01-30"
 url: /blog/2014/01/30/timestamps-in-mysql/
+image: "/media/2014/scissors.png"
 categories:
   - Databases
 ---
