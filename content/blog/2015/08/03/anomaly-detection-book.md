@@ -10,6 +10,9 @@ image: /media/2015/08/outlier.jpg
 author: "Baron Schwartz"
 ---
 
+**UPDATE:** the book is now available from
+[https://ruxit.com/anomaly-detection/](https://ruxit.com/anomaly-detection/).
+
 Together with [Preetam Jinka](http://preet.am/), I'm writing a book for O'Reilly
 called *Anomaly Detection for Monitoring* (working title).
 
