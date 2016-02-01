@@ -3,7 +3,7 @@ author: Baron Schwartz
 categories:
 - Life Hacking
 date: 2015-10-11T11:26:16-04:00
-description: "Are personality assessments valid? What good are they?"
+description: "What kinds of personality assessments exist, and when are they useful?"
 title: Personality Assessments
 image: /media/2015/10/different.jpg
 ---
