@@ -4,7 +4,7 @@ categories:
 - Music
 - Reviews
 date: 2016-02-21T11:12:56-05:00
-description: ""
+description: "Compression formats such as MP3, AAC, and Ogg Vorbis have a lot of nuances."
 image: media/2016/02/cymatics.jpg
 title: "The Best Lossy Music Compression"
 ---
