@@ -2,6 +2,8 @@
 title: Model-view-controller considered harmful
 date: "2013-04-17"
 url: /blog/2013/04/17/model-view-controller-considered-harmful/
+image: media/2013/04/rectabular-excrusion-bracket.png
+description: "Maintainable designs and MVC don't necessarily mean the same thing."
 categories:
   - Commentary
   - Programming
@@ -9,9 +11,13 @@ categories:
 ---
 In 2001 I created a PHP 4 web application framework from scratch as the backbone of a sophisticated application. Back then frameworks weren't cool. Smarty templates were the hotness.
 
-My framework had URL routing, templates with a capable templating syntax similar to mustache, loosely coupled and tightly cohesive object-oriented design, an elegant way to access the database without dumbing it down, and nicely separated business logic and presentation layers -- among many other nice things you find in good frameworks. As the application grew more and more complex, the framework continued to serve well with only occasional enhancements.
+My framework had URL routing, templates with a capable templating syntax similar to mustache, loosely coupled and tightly cohesive object-oriented design, an elegant way to access the database without dumbing it down, and nicely separated business logic and presentation layers -- among many other nice things you find in good frameworks. As the application grew more and more complex, the framework continued to serve well with only occasional enhancements. It's still in use more than a decade later.
 
-I mention this because it illustrates that I've been aware of how to design maintainable systems for a long time. But the so-called MVC paradigm (model, view, controller) has *never* made sense to me.
+I mention this because I think I've been reasonably capable of designing maintainable systems for a long time. But the so-called MVC paradigm (model, view, controller) has *never* made sense to me.
+
+![Rectabular Excrusion Bracket](/media/2013/04/rectabular-excrusion-bracket.png)
+
+<!--more-->
 
 The design goals make sense. See above. It's just that I find MVC itself -- the abstraction and implementation of those goals -- to be unhelpful at best, on a day I'm being charitable. On a day I'm telling it like it is, I'll just bluntly say MVC is the most confusing pile of acronym bulls**t I can think of.
 
