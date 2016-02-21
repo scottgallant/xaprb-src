@@ -7,6 +7,7 @@ url: /blog/2014/01/16/bose-sennheiser-sony-noise-cancelling-headphones/
 categories:
   - Music
   - Hardware
+  - Reviews
 ---
 I've used active noise-cancelling headphones for over ten years now, and have owned several pairs of Bose, one of Sony, and most recently a pair of Sennheiser headphones.
 
