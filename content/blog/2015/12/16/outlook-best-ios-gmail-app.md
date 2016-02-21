@@ -50,6 +50,11 @@ functionality I didn't ask for.
 Besides that, it's still got a lot of the same issues. It feels like a beta.
 Mailbox and other similar apps seemed to have the same problems.
 
+(Update: a few months later, somehow, I started using Inbox and it just clicked.
+The only thing I miss is a unified inbox view; I don't like switching between
+multiple accounts. I know, that doesn't really fit into the Inbox paradigm.
+Anyway, the upshot is I'm not using Outlook anymore. I agree, I am a weirdo.)
+
 ### What About Mail.app?
 
 Mail.app probably is very well integrated with the iPhone and likely has a great
