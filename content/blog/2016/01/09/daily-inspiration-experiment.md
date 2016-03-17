@@ -24,6 +24,8 @@ I began using Buffer to share these thoughts at scheduled times on the various s
 
 At one time I tried working with a remote "virtual" personal assistant. They suggested that I wasn't spending my time wisely on this, and they offered to take over for me and find and post inspirational messages on my behalf. Of course that would have missed the point.
 
+![Dilbert](/media/2016/01/dt130115.gif)
+
 Sharing such deeply personal reflections has risks and rewards, and my calculus was that the rewards would outweigh the risks. What kinds of risks?
 
 - Accidental coincidences with world events. (I had to hastily unschedule one queued message when there was a tragic event it seemed to respond to.)
@@ -49,4 +51,4 @@ If you want to read my daily self-inspiration, I invite you to follow me on [Twi
 
 I'd like to express my deep gratitude to the hundreds of people who've inspired me, too, many of you unknowingly.
 
-[Snowflake by Alexey Kljatov](https://www.flickr.com/photos/chaoticmind75/6970305535/)
+[Snowflake by Alexey Kljatov](https://www.flickr.com/photos/chaoticmind75/6970305535/), Dilbert by [Scott Adams](http://dilbert.com/strip/2013-01-15).
