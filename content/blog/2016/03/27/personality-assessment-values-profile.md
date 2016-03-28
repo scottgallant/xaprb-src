@@ -200,6 +200,8 @@ about how to interview for coachability. When I read that blog post through eyes
 that are familiar with the HVP assessment, it seems quite clear that the
 characteristics he's looking for appear in the assessment.
 
+*This American Life* featured the HVP in an [interesting 15-minute segment](http://www.thisamericanlife.org/radio-archives/episode/231/time-to-save-the-world?act=4). It focuses more on its use as a tool for discerning good/evil than on applications to the workplace.
+
 ### Sharing Results
 
 I always share and collaboratively edit the DISC and Motivations assessment
