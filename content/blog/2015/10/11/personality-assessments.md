@@ -54,7 +54,7 @@ But even the best assessments are imperfect. They're based on statistically like
 
 It's important to be careful when using the assessments in hiring, in particular. If you base a hiring decision on an assessment that hasn't been subjected to adverse impact analysis, you could open yourself to claims of discrimination. I use the results to help me have a better conversation with the candidate, not to make a hire/reject decision.
 
-A lot of the tests are just fluff. They're like horoscopes, designed to sound meaningful for everyone. In fact, there have even been experiments on how much people believe personality assessments. The answer is they believe in the results, even when they really did just get copy-pasted from an astrology book and everyone got the same answers. This is known as the [Barnum effect](https://en.wikipedia.org/wiki/Barnum_effect). You can take this [bogus assessment](http://forer.netopti.net/) yourself; after doing so, see how good you think the results are. This is a good trick to play on your friends.
+A lot of the tests are just fluff. They're like horoscopes, designed to sound meaningful for everyone. In fact, there have even been experiments on how much people believe personality assessments. (People believe the tests are accurate, even when the results are copy-pasted from an astrology book and everyone got the same answers. This is known as the [Barnum effect](https://en.wikipedia.org/wiki/Barnum_effect). You can take this [bogus assessment](http://forer.netopti.net/) yourself; after doing so, see how good you think the results are. This is a good trick to play on your friends.)
 
 Ironically, you can usually tell the smoke-and-mirrors tests by looking at how polished and slick the reports are. The better tests are usually more concerned with information than appearances.
 
@@ -74,9 +74,9 @@ A word of caution: just because the questions you have to answer during the asse
 
 ### Available Assessments
 
-There's a stunning range of assessments available, ranging from amateur to academic to professional. For personal interest, they might all be fun to use, but for professional purposes I'd stick with ones that have had proper investment in large-scale, longitudinal studies of effectiveness and adverse impact.
+There's a stunning range of assessments available, ranging from amateur to academic to professional. For personal interest, they might all be fun to use, but for professional purposes I'd stick with ones that have invested in large-scale, longitudinal studies of effectiveness and adverse impact.
 
-Assessments and companies that are widely used in business, from what I have been able to observe through discussions with various managers and recruiting specialists, are:
+Assessments and companies that are widely used in business, from what I observed through discussions with various managers and recruiting specialists, are:
 
 * [TTI Success Insights](http://www.ttisuccessinsights.com/), which is the company my coach and I use; it's also what many companies such as the Rainmaker Group resell.
 * [Caliper Hiring Assessments](https://www.calipercorp.com/)
@@ -188,6 +188,16 @@ For personal use I wouldn't be afraid to suggest getting the free assessments fr
 For professional use I would suggest working with an experienced management coach. These companies often have networks of certified professionals who are trained in administering and interpreting their assessments, as well as using them in an ongoing process of improvement. My coach is [Brad Eure](http://www.eureconsulting.com/).
 
 I wrote in quite a bit of detail about the use of personality assessments in [VividCortex's ebook on building and managing a team of database administrators](https://www.vividcortex.com/resources/building-scalable-dba-team/). That ebook contains actual data from volunteers who took the assessments. It may be interesting further reading.
+
+**Addendum**: *After a lot of further experience with personality tests in the
+teams I manage, as well as taking many more tests myself, I am fully convinced
+that the TTI Success Insights evaluations, especially the full battery of four
+models, is the best on the market. These assessments use models that match human
+behavior, values, etc very well. They are also extremely accurate. They resist
+"gaming" and other types of manipulation. The more I use them the more impressed
+I am. See [this blog
+post](/blog/2016/03/27/personality-assessment-values-profile/) for more on some
+of the additional assessments beyond DISC and Values/Driving Forces.*
 
 Stock photos by [Susanne
 Nilsson](https://www.flickr.com/photos/infomastern/14589330977/) and [William
