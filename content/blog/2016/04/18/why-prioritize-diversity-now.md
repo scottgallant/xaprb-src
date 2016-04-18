@@ -3,12 +3,14 @@ author: Baron Schwartz
 categories:
 - Databases
 date: 2016-04-18T10:09:11-05:00
-description: "Diversity is difficult to introduce after homogeneity takes root."
-image: "media/2016/03/umbrella.jpg"
+description: "Diversity is difficult to add after homogeneity takes root."
+image: "media/2016/04/board.jpg"
 title: "Why I'm Not Waiting To Prioritize Diversity"
 ---
 
-I have a vacant board seat at VividCortex, and I'm making diversity one of my priorities as I begin to search. I've discussed this with a range of people over the last several months. Nearly everyone has asked me to clarify what I'm trying to achieve, and why. Some have challenged me to defend why I believe that diversity is a must-have at this stage of VividCortex's growth. In the end, it's my job to make the call. I've decided that diversity is a priority (not the sole priority, but a priority) now, not later. Here's why---and here's how I'm following through on that decision.
+I have a vacant board seat at VividCortex, and I'm making diversity one of my priorities as I begin to search. I've discussed this with a range of people over the last several months. Nearly everyone has asked me to clarify what I'm trying to achieve, and why. Some have challenged me to defend why I believe diversity is a must-have at this stage of VividCortex's growth. In the end, it's my job to make the call. I've decided that diversity is a priority (not the sole priority, but a priority) now, not later. Here's why---and here's how I'm following through on that decision.
+
+![Board](/media/2016/04/board.jpg)
 
 <!--more-->
 
@@ -132,3 +134,7 @@ I'm looking for a board member who is different from our current board members. 
 There are many challenges to building a diverse team, especially at the board level. In the face of these challenges and the consequences of making the wrong call, the arguments for recruiting someone just like myself, whom I already know well, can seem pretty compelling and rational. But the truth is that after you build a club, changing who's in it comes slowly if at all.
 
 I'd like to say thanks to all the exhausted feminists in my life. Anything I've done well in this post is pretty much the result of their hard work, and the rest is my fault.
+
+Photo credit: [circuit
+board](https://www.flickr.com/photos/aureobcn/8573429757/) (yeah, bad pun I
+know).
