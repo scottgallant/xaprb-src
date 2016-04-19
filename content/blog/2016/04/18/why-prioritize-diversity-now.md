@@ -127,7 +127,7 @@ As for the definition of the role and ideal candidate, I don't want to go into t
 
 ### Conclusions
 
-In this post I've explained why diversity matters to VividCortex, especially at the board level, and why it's too important to leave for later and hope it can be added on (it can't). I've written from my personal convictions as well as my judgment as a leader.
+In this post I've explained why diversity matters to VividCortex, especially at the board level, and why I believe now is the best time to diversify the board. I've written from my personal convictions as well as my judgment as a leader.
 
 I'm looking for a board member who is different from our current board members. I've accepted that this will be a more difficult search than simply asking a buddy to join my board. I'm fine with that; I'm convinced the results will more than justify the effort. I'm also fine with this taking the time it takes. Rushing and adding the wrong person to the board would be much worse than having a vacancy for a while. As a startup, statistically speaking we could go belly-up for many reasons, but having a three-member board is not the most likely one in my opinion.
 
