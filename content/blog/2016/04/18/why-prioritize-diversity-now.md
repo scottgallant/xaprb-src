@@ -71,7 +71,11 @@ Why do companies with diverse boards and executive teams enjoy these benefits? T
 
 The outcome is that companies with non-diverse boards have much less access to qualified candidates. They're recruiting from a much smaller pool, which itself is more likely to be non-diverse, with all of the consequences that entails for performance.
 
-A diverse board can also make a difference in forming relationships with other companies, too. My own story about selecting a recruiting software vendor is only one of several examples I could cite.
+A diverse board can also make a difference in forming relationships with other companies, too. My own story about selecting a recruiting software vendor is only one of several examples I could cite. And many of the people I know bring their values into vendor decisions too:
+
+> i'm so interested in containers, but is there literally any container co out
+> there that doesn't support harassing and/or assaulting women?
+> - [@mipsytipsy](https://twitter.com/mipsytipsy/status/723564461265580034)
 
 I would be remiss if I didn't take this opportunity to point out that lack of diversity is a negative spiral that limits access to opportunities for many people, and that's unjust. As with company performance, the outcomes are unambiguous: lack of diversity gives rise to many types of discrimination. One that's relevant in the context of an article about a board search is women's greatly limited ability to raise venture capital funding as compared to men. Women who aren't recruited into leadership positions don't easily become part of the clique that leads to upward mobility into funding, founding, board positions, and so on. These are not accidental, blameless, or victimless outcomes. Diversity is not just a smart business decision, it is a matter of ethics and morals.
 
