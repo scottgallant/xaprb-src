@@ -3,8 +3,8 @@ author: Baron Schwartz
 categories:
 - Life Hacking
 date: 2016-06-10T12:21:54-04:00
-description: "Cursive writing isn't just a way to write."
-image: ""
+description: "Cursive writing is more than just writing."
+image: "media/2016/06/cursive.jpg"
 title: Cursive Writing
 ---
 
