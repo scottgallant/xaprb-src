@@ -26,9 +26,9 @@ the laughter of children; others a feeling of serenity and calm---all completely
 unhelpful to me. Everyone was talking about it, and the only thing I could
 conclude was that none of them were actually doing it. The jargon around it, and
 the glib catchphrases, turned me off even more. People seemed to rely on
-meaningless phrases ("shine the heart forward as you connect your breath to your
-intention and invite your om shanti to blossom into full expression") as
-placeholders for real substance.
+meaningless phrases  as placeholders for real substance ("shine the heart
+forward as you connect your breath to your intention and invite your om shanti
+to blossom into full expression").
 
 Still other people seemed to have urban myth misconceptions, and warned me for
 example that I might never "come back," telling me about people they knew who'd
@@ -38,7 +38,7 @@ drug use. The idea that someone could short out their brain circuits does not
 seem realistic to me.
 
 Meditation may have many outcomes, such as serenity and clarity, but the goal is
-quite simple: to train yourself to actually observe your own mind and see
+quite simple: to train yourself to observe your own mind and see
 reality as it is. By doing this, you realize that you are not your thoughts. You
 learn that you are not your "self," which in fact is a false identity created by
 the thinking part of the mind. You learn that you can *be* without *thinking*,
@@ -67,12 +67,11 @@ Much of it is useful, but much isn't. And if you are unconscious of these
 thoughts, then your mind is in control of you, and not the other way around.
 Developing the ability to witness your mind, and know it as something separate,
 allows you to be unattached to the mind's cravings, fears, doubts, conditioned
-reactions, and other misery.
+reactions, aversions, delusions, and other misery.
 
 It's taken me half a dozen years to reach the point I have now. There were many
 detours and many false prophets; many people teaching meditation without knowing
-it themselves. Now that I've found my way past those, and I'm making real
-progress, everything is different.
+it themselves. Now that I've found my way past those, everything is different.
 
 I'll give two concrete examples of how meditation has changed me. Some months
 ago I wrote about [the agonizing pain and stress of being a
@@ -104,10 +103,10 @@ the future. I spent years in therapy trying to understand and recover from some
 traumatic experiences I'd had. Every session my therapist would say, "Think back
 to that time. Tell me about it." The therapist was trying, in a Freudian way, to
 help me do the same things as meditation does---see my reactions to my thoughts
-and memories, and disidentify with them.
+and memories, and disidentify from them.
 
 Meditation has helped me more in the space of a few months than therapy helped
-in years. If I'd learned to meditate, I have absolutely no doubt that I wouldn't
+in years. If I'd learned to meditate, I am pretty sure that I wouldn't
 have needed therapy. And I always felt vaguely sure, in a way I couldn't
 explain, that there had to be a more effective way of healing than repeatedly
 talking about the horrible things that I'd experienced. Now I know what I was
@@ -128,7 +127,14 @@ words, remembering the past or waiting for the future is actually opting not to
 live at all.
 
 To meditate is to be in the now, to notice when thoughts arise, and to release
-them rather than engaging them. It is to see clearly the mind's activity, the
+them rather than engaging them. Indulge me as I deploy another bad analogy: when
+you're caught up in thoughts, it's as if you're reading the mail; the
+independent, outside observer is switched off and attention resides in the
+thoughts themselves. When you're observing the thoughts and releasing them, it's
+as if you're simply handling or sorting the mail, shuffling it onwards without
+opening the envelopes.
+
+To meditate is to see clearly the mind's activity, the
 thoughts, as separate.  It relies for its working on the impossibility of
 multi-tasking. You can't stop a thought; the harder you try, the more you're
 actually thinking about it. Instead, *experiencing* the object of focus (usually

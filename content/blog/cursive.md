@@ -49,7 +49,7 @@ I ignored my father.
 
 As my teenage years gave way to my early twenties, I abandoned cursive writing.
 I admired my neat block printing. I thought it was precise and clear, and easier
-to write. I still gave myself an A+ for penmanship, but my definition was based
+to write. I still gave myself a conceited A+ for penmanship, based
 on consistent, evenly spaced printed lettering. I never wrote cursive anymore.
 
 I had some role models. A land surveyor who hand-lettered maps in block capitals
@@ -76,7 +76,7 @@ stress injury. My arms hurt constantly, and the muscles in my forearms and the
 little-finger edges of my hands twitched incessantly, night and day. My thumbs
 occasionally spasmed and contracted into my palms.
 
-One summer a friend and I took a 5-week trip for foreign language immersion.
+One summer I took a 5-week trip for foreign language immersion, away from computers.
 When I returned home, my arms and hands were still convulsing.  I began to worry
 about my ability to complete college. In the middle of writing my senior thesis,
 I switched my keyboard layout to Dvorak in desperation.
@@ -151,8 +151,8 @@ neat. I remembered when I used to congratulate myself on my writing.
 I felt at times like an utter failure.  In a time of crisis, I decided to begin
 writing cursive again, just as I'd switched to Dvorak during the middle of
 writing an epic treatise on XML and music notation. I knew it would be
-frustrating, and I didn't need any more frustration, but everything else had
-gone stale and I needed something to get me out of the ditch. Maybe, secretly, I
+frustrating, and I didn't need any more frustration, but 
+I needed something to get me out of the ditch. Maybe, secretly, I
 wanted to relearn beautiful cursive handwriting so I could feel okay about
 myself again.
 
@@ -233,9 +233,9 @@ pen](https://www.amazon.com/gp/product/B00KRPFD96/?tag=xaprb-20). I didn't know
 anything about fountain pens. I wasn't even sure what to do for ink or how to
 take care of it.
 
-It easy to adjust. I was afraid of damaging the pen at first, because the tip
+I was afraid of damaging the pen at first, because the tip
 just looks so delicate. I was also afraid of spilling or smearing ink. But those
-fears vanished quickly.
+fears vanished quickly. It was easy to adjust.
 
 Again, journaling became more special, but not because I'd given myself a
 present. This time, I realized I'd stumbled upon the solution to a lifelong
@@ -283,7 +283,7 @@ has very real value to me as an individual; value it never held when I was a
 child.
 
 I started to get interested in drawing at one time, and my wonderful, amazing
-wife dug through some old books she'd kept and found a copy of *Drawing On The
+wife gave me a copy of *Drawing On The
 Right Side Of The Brain.* Among other things, this book taught me the origins of
 the phrase "split-brain syndrome" that we use in clustered database systems. (It
 comes from [Nobel-Prize-winning experiments on patients with severe
