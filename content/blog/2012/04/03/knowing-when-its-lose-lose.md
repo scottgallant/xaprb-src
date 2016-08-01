@@ -2,12 +2,18 @@
 title: "Knowing when it's lose-lose"
 date: "2012-04-03"
 url: /blog/2012/04/03/knowing-when-its-lose-lose/
+image: "media/2012/04/defeat.jpg"
+description: "Choose your battles."
 categories:
   - Databases
 ---
 I've been a consultant for over five years now and I'm just beginning to learn some basic things. One of them is how to spot a lose-lose customer relationship. I say I'm just beginning because I continue to find new lose-lose scenarios that I don't see coming.
 
-If things are set up such that nobody can succeed, it's best to walk away from the deal. With 1400+ customers now, you might think we haven't walked away from many deals, but that's not true. We are very careful to choose our customers. They don't just choose us, we have to say yes in return. I used to be the sole sales person and even in the hungry early days I politely declined or referred a lot of people elsewhere.
+![Defeat](/media/2012/04/defeat.jpg)
+
+<!--more-->
+
+If things are set up such that nobody can succeed, it's best to walk away from the deal. With 1400+ customers now, you might think we (Percona) haven't walked away from many deals, but that's not true. We are very careful to choose our customers. They don't just choose us, we have to say yes in return. I used to be the sole sales person and even in the hungry early days I politely declined or referred a lot of people elsewhere.
 
 Some interesting rules got written on the wiki, such as *never do business with someone who confesses to being drunk.* This applies also to people who've been up all weekend desperately changing things at random, drinking Red Bull, and can't even remember what the original problem was or stop their minds spinning long enough to describe it clearly. I cut my losses and backed out of one such case, after essentially solving it and not billing for it, because I could see that I'd already lost, and was going to lose more and more badly the longer I stayed engaged. That person still posts online occasionally about what terrible service he got. Public criticism is another no-win situation: you can never take troll bait and come out ahead. (I've let myself be goaded into responding a couple of times. It's hard not to do.)
 
@@ -25,4 +31,4 @@ For example, it's sometimes possible, with great interpersonal skills, to win th
 
 In the end, consulting is a personal relationship. Businesses don't have relationships; people do. And you have to choose your business relationship partners carefully, just as you choose your friends and romantic partner. Developing the ability to spot a person or situation that's stacking the deck against you can be a valuable asset. It's much better never to enter a poisoned relationship than to have to leave one.
 
-
+[Picture Credit](https://upload.wikimedia.org/wikipedia/commons/7/79/Defeat_of_Admiral_Linois_by_Commodore_Dance.jpg)
