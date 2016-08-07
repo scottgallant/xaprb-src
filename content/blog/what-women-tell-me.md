@@ -3,7 +3,7 @@ author: Baron Schwartz
 categories:
 - Commentary
 date: 2016-08-06T12:43:03-04:00
-description: "Women change my perspective more than anyone else in my wife."
+description: "Women change my perspective more than anyone else in my life."
 image: "media/2016/08/gramophone.jpg"
 title: What Women Tell Me
 ---
