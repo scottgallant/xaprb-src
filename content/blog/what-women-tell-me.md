@@ -17,7 +17,7 @@ Why do I care? It's because women tell me things that men rarely, sometimes
 started to, I decided to sit up and listen, hard.
 
 *Disclaimer: I'm not saying that men don't care or talk about these types of
-things. In fact, many of the episodes of sexism above came to me through a man's
+things. In fact, many of these episodes of sexism came to me through a man's
 Twitter post. BUT WOMEN RETWEETED IT TO ME.*
 
 ![Gramophone](/media/2016/08/gramophone.jpg)
