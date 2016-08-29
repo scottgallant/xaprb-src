@@ -25,10 +25,15 @@ I use the insights to help me understand how I can do things such as:
 * Understand where and when I'm likely to behave well or badly.
 * Predict how a person will respond to interactions and adjust my approach.
 * Communicate effectively, using a person's natural style instead of my own.
-* Coach people.
 * Match a person's strengths to a situation.
-* Predict whether a person will be a good fit for a role I'm recruiting.
 * Ask better questions.
+
+I also use assessments, individually and with teams, to:
+
+* Help people understand themselves and their desired career paths.
+* Perform pairwise comparisons between people and help coach them through the results.
+* Help groups understand how they're similar or different (e.g. sales vs marketing vs engineering) and how to accommodate those differences.
+* Determine what behaviors, motivations, and skills are required for a role, and in which areas a candidate is a good match for that (job and gap reports).
 
 ### What Kinds Of Assessments Are There?
 
@@ -96,6 +101,7 @@ Here are some other resources online, each offering one or multiple tests:
 * [The Kiersey Sorter](http://www.keirsey.com/)
 * [A variety of free psych tests](https://www.123test.com/)
 * [Tony Robbins's test website](https://www.tonyrobbins.com/disc-profile/) provides InnerMetrix DISC and Values tests for free
+* There are some [collaborations amongst scientists for free and open study](http://ipip.ori.org/), and a [free online version of the NEO PI-R test](http://www.personal.psu.edu/faculty/j/5/j5j/IPIP/).
 
 But wait, there's more. Here are some other tests I've seen but haven't examined much:
 
@@ -113,7 +119,7 @@ DISC is an acronym for four dimensions of a person's behavioral style---things t
 * The S stands for Steadiness or Stability, and relates to preferred working style. A high-S person is patient and a focused single-tasker; a low-S person is a plate-spinning multi-tasker who's easily distracted and likes instant gratification. High-S people also get stressed when placed in multi-tasking situations.
 * The C stands for Compliance or Caution. High-C people care a lot about the world's rules, standards, and procedures, and they want to make sure they're following the rules because they believe that provides safety. Low-C people think rules are for controlling other people.
 
-Most people are high in two dimensions and low in the other two. It's a little less common, but people can be moderately high in a few, and I've even seen a few people who were high in three categories. Programmers, for example, tend to be high-S, high-C. Many salespeople are high-I and either high-D or high-S.
+Many people are high in two dimensions and low in the other two. It's a little less common, but people can be moderately high in a few, and I've even seen a few people who were high in three categories. Programmers, for example, tend to be high-S, high-C. Many salespeople are high-I and either high-D or high-S.
 
 You can find many places to take the DISC test, such as TTI Success Insights's website, Tony Robbins's website, and some of the free testing sites I linked above. I have taken lots of those tests and gotten almost exactly the same results from all of them, no matter which provider I used.
 
@@ -121,13 +127,45 @@ I have also asked about 20 of my friends to take some of these tests and share t
 
 The TTI Success Insights and Tony Robbins's test website both provide free DISC and Values tests. The benefit of adding the Values test is that the assessment tries to help you understand potential strengths and conflicts between the ways you like to behave, and the things that motivate you.
 
-The Big Five tests are similar to DISC in some ways, but I don't find it as easy to apply or understand. I wouldn't say it is inaccurate, but it feels incomplete to me, as though some of the things it measures are secondary rather than primary, and there are some primary things missing (e.g. how aggressive someone is).
+The Big Five tests are similar to DISC in some ways, but I don't find it as easy to apply or understand. I wouldn't say it is inaccurate, but it feels incomplete to me, as though some of the things it measures are secondary rather than primary, and there are some primary things missing (e.g. how aggressive someone is). This may be a function of how familiar I am with DISC, rather than an objective judgment of the models. To be fair, DISC doesn't seem fully faithful in my experience either.
 
 ### Motivators Models
 
 Values are the things a person cares about---what motivates them. Unlike behaviors, which seem to be pretty steady for a lot of people over the long term, values are sometimes situationally driven and can change, especially with major life events such as getting married, having children, moving, or changing jobs.
 
 TTI's motivators are theoretical, utilitarian, aesthetic, social, individualistic, and traditional. The InnerMetrix motivators (values) are aesthetic, economic, individualistic, political, altruistic, regulatory, and theoretical. Although they use similar names, I think the meanings are a bit different in some nuances. I don't prefer one of these to the other, but I'm more familiar with the TTI assessments because I've used them a lot more.
+
+Update: TTI's new Driving Forces assessment is based off the motivators
+assessment but is more nuanced and some of the items are renamed to reflect
+that.
+
+Here's an example, using the TTI Driving Forces assessment. One of the
+dimensions, Utilitarianism, varies between Selflessness and Resourcefulness.
+Selfless - People who are driven by completing tasks for the greater good, with
+little expectation of personal return.
+Resourceful - People who are driven by practical results, maximizing both
+efficiency and returns for their investments of time, talent, energy and
+resources. In other words, resourceful people do things
+[intentionally](/blog/intent/).
+
+Another dimension is what motivates how you behave towards others. Now called
+Others, previously called Social, it ranges from 
+Altruistic (People who are driven to assist others for the satisfaction of
+being helpful or supportive) to
+Intentional (People who are driven to assist others for a specific purpose, not just for the sake of being helpful or supportive).
+
+Both of these dimensions relate to the expected outcome of a decision or
+activity: do you do it for the greater good, or to achieve a goal? I've found
+this to be extremely revealing about people. It's not to say one is good or bad;
+all of these dimensions are good for different things. Picture an EMT versus a
+hospice care nurse, or the way a real estate developer feels about a plot of
+land versus how a biologist or forest service worker does. You can probably
+predict which types of people are best suited for those jobs.
+
+Matching people to jobs they're naturally motivated to do results in
+effortless, joyful work that doesn't feel like work and never gets stale.
+
+Update: After a few years using the TTI values assessment, now called Driving Forces, I have grown more and more impressed with it. Watching people react to their assessments hundreds of times, along with observing them in interview settings of 60-90 minutes or even longer, I have come to see it as extremely accurate.
 
 ### Strengths Assessments
 
