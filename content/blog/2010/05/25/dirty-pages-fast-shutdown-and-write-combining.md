@@ -2,6 +2,8 @@
 title: Dirty pages, fast shutdown, and write combining
 date: "2010-05-25"
 url: /blog/2010/05/25/dirty-pages-fast-shutdown-and-write-combining/
+image: "media/2010/05/ligatures.jpg"
+description: "The question of how much data to write, and how fast, is a difficult one."
 categories:
   - Databases
 tags:
@@ -9,7 +11,13 @@ tags:
 ---
 One of the things that makes a traditional transactional database hard to make highly available is a relatively slow shutdown and start-up time. Applications typically delegate most or all writes to the database, which tends to run with a lot of "dirty" data in its (often large) memory. At shutdown time, the dirty memory needs to be written to disk, so the recovery routine doesn't have to run at startup. And even upon a clean startup, the database probably has to warm up, which can also take a very long time.
 
-Some databases let the operating system handle most of their memory management needs. This has its own challenges, especially if the [operating system's design doesn't align exactly with the database's goals](http://blog.2ndquadrant.com/en/2010/05/postgresql-freebsd-and-free-do.html). Other databases take matters into their own hands. InnoDB (the de facto transactional MySQL storage engine) falls into this category; when properly configured to take advantage of modern hardware, it will use basically all of the server's memory in a huge buffer pool, with files opened in O_DIRECT mode, bypassing the operating system for I/O operations.
+![Ligatures](/media/2010/05/ligatures.jpg)
+
+Some databases let the operating system handle most of their memory management needs. This has its own challenges, especially if the [operating system's design doesn't align exactly with the database's goals](http://blog.2ndquadrant.com/en/2010/05/postgresql-freebsd-and-free-do.html).
+
+<!--more-->
+
+Other databases take matters into their own hands. InnoDB (the de facto transactional MySQL storage engine) falls into this category; when properly configured to take advantage of modern hardware, it will use basically all of the server's memory in a huge buffer pool, with files opened in O_DIRECT mode, bypassing the operating system for I/O operations.
 
 The design choices, and the results, are worth thinking about. Assuming you shut down and restart infrequently, the choice to hold a lot of dirty memory has huge performance benefits, which has to be balanced against the desire for fast shutdown and recovery. In InnoDB, there are a few things you can configure that change the startup and shutdown behaviors, but you should understand the performance effects during normal operation.
 
@@ -46,4 +54,4 @@ InnoDB is a complex system that is trying to balance a lot of different factors 
 
 Even the question of how much data to write, and how quickly, is a hard one. It's hard and expensive to really answer accurately because the *real* answer requires knowledge of things such the frequency and distribution of page dirtying. Therefore, InnoDB kind of avoids this and lets you configure its "I/O capacity" and "dirty page percent" and maybe a few other things, depending on which version you use. These are just models that approximate the true answers to the real questions. All models are wrong. Some models are useful. InnoDB employs useful models that work a lot of the time.
 
-
+[Pic Credit](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ligatures.svg/2000px-Ligatures.svg.png) with [Gears](https://upload.wikimedia.org/wikipedia/commons/9/9f/Reduction_Gear.jpg)
