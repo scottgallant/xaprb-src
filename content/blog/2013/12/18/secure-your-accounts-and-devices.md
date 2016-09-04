@@ -3,12 +3,20 @@ title: Staying Secure Online
 date: "2013-12-18"
 url: /blog/2013/12/18/secure-your-accounts-and-devices/
 menu: main
+description: "Many people neglect basic online security because they don't know how or think it's hard. It doesn't have to be."
+image: "media/2013/12/lock.jpg"
 categories:
   - Security
 ---
 This is a public service announcement. Many people I know are not taking important steps necessary to secure their online accounts and devices (computers, cellphones) against malicious people and software. It's a matter of time before something seriously harmful happens to them. 
 
+![Lock](/media/2013/12/lock.jpg)
+
 This article will urge you to use *higher* security than popular advice you'll hear. **It really, really, *really* is necessary to use strong measures to secure your digital life.** The technology being used to attack you is very advanced, operates at a large scale, and you probably stand to lose much more than you realize. 
+
+However, it's also *much easier than you think to do the basics right.*
+
+<!--more-->
 
 You're also likely not as good at being secure as you think you are. If you're like most people, you don't take some important precautions, and you overestimate the strength and effectiveness of security measures you *do* use. 
 
@@ -48,6 +56,13 @@ Here are some other important rules for password security.
 I've guessed my way into many an account, including other people's accounts, by knowing who someone's mother's maiden name was, or paternal grandfather, or whatever. It's usually easy to find this stuff online with a little searching.
 
 Instead, always generate unique fake answers. City of birth? The moon. Favorite high school teacher? Swimming pool. First pet? Diesel locomotive. Store these answers in your password safe.
+
+Or generate random answers. As 
+[Chris Gilbert](https://twitter.com/chriswithpants/status/770435827142840320)
+says, here's how to fill out security questions:
+
+![Security Questions](/media/2013/12/security-questions.jpg)
+
 
 ### Strong, Memorable Passwords Without a Safe
 
@@ -116,6 +131,18 @@ Unfortunately, most websites don't support two-factor authentication. Fortunatel
 
 **Please enable two-factor authentication if it is supported!** I can't tell you how many of my friends and family have had their Gmail, Facebook, Twitter, and other services compromised. Please don't let this happen to you! It could do serious harm to you -- worse than a stolen credit card. 
 
+**Please use a code generator such as Google Authenticator instead of SMS**, if
+it is supported. SMS is too easy to hack, and there are many examples of it
+happening, usually by social-engineering your phone company's customer support
+staff. [Read
+more](https://www.wired.com/2016/06/hey-stop-using-texts-two-factor-authentication/).
+
+**If the service supports physical device-based 2-factor**, use it. Google does,
+via products like Yubikey. So does Dropbox, GitHub, Facebook, and a growing
+number of others. This is relatively new, so the [Yubikey
+website](https://www.yubico.com/why-yubico/for-individuals/) is probably a good
+resource for now.
+
 Also, **please save the recovery codes in your password safe** so if you
 lose/destroy your two-factor device you can regain access to the account.
 An easy way to do this is to take a screenshot of the QR code when you associate
@@ -147,7 +174,7 @@ All of this is easily preventable. Given that one or more of your devices will s
 
 Finally, here are some techniques that aren't as useful as you might have been told. 
 
-*   Changing passwords doesn't significantly enhance security unless you change from an insecure password to a strong one. Changing passwords is most useful, in my opinion, when a service has already been compromised or potentially compromised. It's possible on any given day that an attacker has gotten a list of encrypted passwords for a service, hasn't yet been discovered, and hasn't yet decrypted them, and that you'll foil the attack by changing your password in the meanwhile, but this is such a vanishingly small chance that it's not meaningful. 
+*   Changing passwords doesn't significantly enhance security unless you change from an insecure password to a strong one. Changing passwords is most useful, in my opinion, when a service has already been compromised or potentially compromised. It's possible on any given day that an attacker has gotten a list of encrypted passwords for a service, hasn't yet been discovered, and hasn't yet decrypted them, and that you'll foil the attack by changing your password in the meanwhile, but this is such a vanishingly small chance that it's not meaningful. Actually, some leading technologists sensibly say that [frequent password changes make you less secure, not more](http://arstechnica.com/security/2016/08/frequent-password-changes-are-the-enemy-of-security-ftc-technologist-says/).
 *   (OK, this ended up being a list of 1 thing. Tell me what else should go here.)
 
 ### Summary
@@ -173,3 +200,5 @@ Do you have any other suggestions? Please use the comments below to add your tho
 * [Good advice on common password misconceptions](https://www.qwertycards.com/strong_passwords.html)
 * [Storing SSH Keys on a USB Drive for 2-Factor Auth](http://tammersaleh.com/posts/building-an-encrypted-usb-drive-for-your-ssh-keys-in-os-x/)
 * [Stronger 2-Factor with a Security Key](http://googleonlinesecurity.blogspot.com/2014/10/strengthening-2-step-verification-with.html)
+
+[Photo Credit](https://www.flickr.com/photos/karolfranks/15136260663/)
