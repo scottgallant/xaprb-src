@@ -4,13 +4,13 @@ categories:
 - Life Hacking
 date: 2016-09-04T16:55:44-04:00
 description: "Here's a gluten-free pancake recipe that isn't disgusting."
-image: "media/2016/09/stacked-rocks.jpg"
+image: "media/2016/09/waffles.jpg"
 title: Gluten
 ---
 
 I’m not saying I’m gluten-sensitive. I just know that when I eat things like pizza, bread, pasta, or the like, I suffer. And gluten-free alternatives are disgusting. But I’ve figured out how to make the breads I love, such as pancakes, waffles, and muffins, without pain. Here’s my recipe.
 
-![Stacked Rocks](/media/2016/09/stacked-rocks.jpg)
+![Stacked Rocks](/media/2016/09/waffles.jpg)
 
 <!--more-->
 
