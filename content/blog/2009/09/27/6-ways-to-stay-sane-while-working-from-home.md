@@ -1,11 +1,20 @@
 ---
-title: 6 ways to stay sane while working from home
+title: 6 Ways To Stay Sane While Working From Home
 date: "2009-09-27"
 url: /blog/2009/09/27/6-ways-to-stay-sane-while-working-from-home/
+image: "Work-life balance doesn't happen accidentally. It takes care and thought."
+description: "media/2009/09/newtons-cradle.jpg"
 categories:
-  - Commentary
+  - Life Hacking
 ---
-Since I joined [Percona](http://www.percona.com/), my work/life balance has changed. I used to work eight-hour days and go home, period. Now I find it's sometimes difficult to keep good boundaries between work and the rest of my life. I also found that 8 hours in my new job left me much more tired than 8 in my old job. I've had to really work hard to understand what changed and how to keep this more in balance, and I've gotten help from a number of other people. In the end, a deep examination of my habits was necessary. After all that work, I thought it might be helpful to share the results with others.
+
+Since I joined Percona, my work/life balance has changed. I used to work eight-hour days and go home, period. Now I find it's sometimes difficult to keep good boundaries between work and the rest of my life. I also found that 8 hours in my new job left me much more tired than 8 in my old job. I've had to really work hard to understand what changed and how to keep this more in balance.
+
+![Newton's Cradle](/media/2009/09/newtons-cradle.jpg)
+
+I've gotten help from a number of other people. In the end, a deep examination of my habits was necessary. After all that work, I thought it might be helpful to share the results with others.
+
+<!--more-->
 
 ### What changed?
 
@@ -81,4 +90,4 @@ I digress, but not much. My point is that doing one thing at a time, steadfastly
 
 I feel that I have a long ways to go, but I think I've figured out what's wrong, and the last few months seem to be making a difference for me. I spend less time at the computer, I work more productively, and I feel a lot better -- after a day at work I usually feel fresh and energized, as I used to. These days I am able to make time to do things I haven't done for years, such as playing music. I'm still trying to pay attention and find places to improve, but a working recipe for me so far seems to be introducing flexibility, minimizing distractions, keeping things separate, and maximizing personal interactions.
 
-
+[Pic Credit](https://pixabay.com/p-256213/)
