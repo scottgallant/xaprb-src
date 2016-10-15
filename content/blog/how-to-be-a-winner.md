@@ -38,5 +38,7 @@ Winners quote *Good To Great* and *Built To Last* because those are stories writ
 
 Aren’t you glad you read all the way to the end of this and now you know how to be a winner? Of course you are! You have read this, therefore you’re a winner. If you’re not, you don’t belong here, move along now!
 
+*Note: this article is a parody of the appealing, but substanceless, "success literature" industry and their marketing. My advice: Don't succumb to their siren song. Be [deliberate](/blog/intent/) and examine your plans, actions, and outcomes in search of continuous self-improvement.*
+
 [Photo Credit](https://www.flickr.com/photos/mans_pic/3077796641/)
 
