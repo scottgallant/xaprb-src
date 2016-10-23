@@ -24,7 +24,7 @@ First, briefly, what I experience and my current thinking:
 * I know a lot of people like me feel dismissed without being heard. I know some of us have been told their condition is psychosomatic (i.e. we can fix our problem by going to a shrink). I know we’re not insane.
 * I know the incidence of *actual* celiac disease is dramatically higher in the United States than it used to be.
 * I know the wheat we eat in the United States barely resembles what we grew 100 years ago. I know people who came from Europe to the United States and found that they digest bread here very differently than they’re used to.
-* I know there’s a lot of controversy about gluten. I know there are theories about things called FODMAPs and various types of [proteins](http://www.npr.org/sections/thesalt/2015/12/09/459061317/a-protein-in-the-gut-may-explain-why-some-cant-stomach-gluten). 
+* I know there’s a lot of controversy about gluten. I know there are theories about things called FODMAPs and various types of [proteins](http://www.npr.org/sections/thesalt/2015/12/09/459061317/a-protein-in-the-gut-may-explain-why-some-cant-stomach-gluten). I know recent research continues to uncover more ways that non-celiac people really do get legitimately sick from wheat in particular, including "[amylase-trypsin inhibitors, or ATIs](http://mentalfloss.com/us/go/87511)."
 
 Most gluten-free bread substitutes are inedible and should be taken off the market. Here’s a simple, gluten-free recipe I’ve developed that works for me. (Apologies to people who don't use Imperial units).
 
