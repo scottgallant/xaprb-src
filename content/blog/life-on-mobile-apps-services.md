@@ -2,13 +2,13 @@
 author: Baron Schwartz
 categories:
 - Life Hacking
-date: 2016-10-21T21:46:24-04:00
+date: 2016-10-22T21:46:24-04:00
 description: "How I run most of my life and business from iPhone and iPad apps"
 image: "media/2016/10/torx.jpg"
 title: "Life on Mobile: The iPhone Apps And Services I Use"
 ---
 
-In my [last post](/blog/life-on-mobile-android-ios/) I talked about the transition from Android to iOS and some of the experiences I had during that journey. Once I switched, though, I found a rich ecosystem of iPhone and iPad apps I use daily. Some of them are central to my workflow and professional life, and I use them across all my devices, including my laptop/desktop systems. In this post I'll talk about those apps and how they enable me to run the bulk of my life (and my company) on a phone screen.
+In my [last post](/blog/life-on-mobile-android-ios/) I talked about the transition from Android to iOS and some of the experiences I had during that journey. Once I switched, I found a rich ecosystem of iPhone and iPad apps I use daily. Some of them are central to my workflow and professional life, and I use them across all my devices, including my laptop/desktop systems. In this post I'll talk about those apps and how they enable me to run the bulk of my life (and my company) on a phone screen.
 
 ![Torx Bits](/media/2016/10/torx.jpg)
 
@@ -44,27 +44,23 @@ I used to use GMail on Android, but found that any of the alternatives are bette
 
 I use Google Calendar to run my life. If it's free on my calendar, you can book me then. My calendar tells me where to go and what to prepare for. The Google Calendar app for iPhone is great. It isn't built natively for iPad (why???) so I use the built-in Apple Calendar app there instead. It's good enough to work well, but tends to sync a little bit more slowly.
 
-FullContact pulls together my contacts from many places and keeps them synced up. It's a big win. I'm a paying customer.
-
 The sore points in Google apps for work are Hangouts and Google+. They feel like abandonware.
 
-I occasionally use Adobe Fill & Sign to sign a PDF, but it's awkward, so I try not to.
+Some other apps I use for work:
 
-Duet Display is amazing. It lets me plug my iPad or iPhone into my laptop and use it as an external monitor. This is great for when I'm on the go.
-
-I use GoToMeeting sometimes. I use it more on my desktop/laptop.
-
-1Password is indispensable for me. I sync its files over Dropbox, and use it on all of my mobile and desktop devices. It's so, so good. I do not allow my devices themselves to remember any of my passwords or auto fill things in browsers or system keychains.
-
-We use Asana at work, but I don't use it much. I haven't opened the Asana app in a while.
-
-We use Salesforce at work too. The Salesforce app is pretty bad. It's only slightly better than LinkedIn.
+* FullContact pulls together my contacts from many places and keeps them synced up. It's a big win. I'm a paying customer.
+* I occasionally use Adobe Fill & Sign to sign a PDF, but it's awkward, so I try not to.
+* Duet Display is amazing. It lets me plug my iPad or iPhone into my laptop and use it as an external monitor. This is great for when I'm on the go.
+* I use GoToMeeting sometimes. I use it more on my desktop/laptop.
+* 1Password is indispensable for me. I sync its files over Dropbox, and use it on all of my mobile and desktop devices. It's so, so good. I do not allow my devices themselves to remember any of my passwords or auto fill things in browsers or system keychains.
+* We use Asana at work, but I don't use it much. I haven't opened the Asana app in a while.
+* We use Salesforce at work too. The Salesforce app is pretty bad. It's only slightly better than LinkedIn.
 
 ### News
 
 I use a few news-related apps. The main one is New York Times. I'm a premium subscriber there. I came to the NYT through their amazing NYTNow app, which they discontinued. The success of that app seems to have informed the main NYT app, which offers much the same experience in kind of a subset of the app.
 
-I also, less frequently, open Al Jazeera (AJ English). I appreciate the non-US-centric worldview I find there. Every company's citizenry tells itself they're the best in the world, and America is no different. Hearing how we're viewed from elsewhere is important to me. I've tried BBC and Reuters and other services, but Al Jazeera somehow hits a sweet spot for me.
+I also, less frequently, use Al Jazeera (AJ English). I appreciate the non-US-centric worldview I find there. Every company's citizenry tells itself they're the best in the world, and America is no different. Hearing how we're viewed from elsewhere is important to me. I've tried BBC and Reuters and other services, but Al Jazeera somehow hits a sweet spot for me.
 
 In my car, I listen to NPR all day every day, but the NPR apps are what happens when someone tries to app-ify radio without understanding what an app is or why people use it. I honestly tried the NPR and NPR One apps and both times just couldn't find words to describe the disconnect. I support my local NPR station when they fundraise, and that's good enough for me.
 
@@ -72,7 +68,7 @@ Apple has a News app, which used to be great. It used to let me specify what new
 
 ### Stories and Entertainment
 
-I'm a paid Spotify subscriber, though due to the fact that I have a large music library that's pretty esoteric and isn't on any of the major music services, Apple Music's ability to sync my library is a must-have. I use Apple Music 95% of the time these days. I wrote previously about the encoding quality issues I had with Google Play Music. I think I had much the same dismal experience with Amazon Music. There are other services too, such as Pandora, but none of them offers the combination of streaming, "radio," and my own library as far as I know.
+I'm a paid Spotify subscriber, though due to the fact that I have a large music library that's pretty esoteric and isn't on any of the major music services, Apple Music's ability to sync my library is a must-have. I use Apple Music 95% of the time these days. I wrote previously about the [encoding quality issues I had with Google Play Music](/blog/2016/02/21/best-itunes-mp3-format/). I think I remember having much the same dismal  experience with Amazon Music. There are other services too, such as Pandora, but none of them offers the combination of streaming, "radio," and my own library as far as I know.
 
 Twitter counts as an entertainment service sometimes. I use Tweetbot, as mentioned. I also use Netflix and occasionally the Amazon Movies app. These work a lot better on iOS than in a browser on a laptop. They use a lot less energy and generate much less heat. Sometimes I also use the IMDB app.
 
@@ -98,7 +94,7 @@ I don't use the built-in iMovie app. When I record a movie with the Camera app, 
 
 For photo editing, usually the Apple Photos app is enough---I usually do little beyond simple cropping and color correction. There's a Photoshop app, but it's all but useless. I tried Google SnapSeed, but that's not really an improvement over the built-in app either. Eventually I purchased Pixelmator, which is quite good and lets me do things I previously only could do on the desktop Photoshop app.
 
-I use the Google Photos app, with auto-backup enabled, to get photos off my devices and into my Google account, so I can delete them from the device. If I don't do this, I run out of space. I don't find the iCloud Photo Library to be very good. It doesn't solve the space problems and it has a lot of trouble syncing in my experience. But Google Photos is actually pretty brilliant.
+I use the Google Photos app, with auto-backup enabled, to get photos off my devices and into my Google account, so I can delete them from the device. If I don't do this, I run out of storage space on my phone. I don't find the iCloud Photo Library to be very good. It doesn't solve the space problems and it has a lot of trouble syncing in my experience. But Google Photos is actually pretty brilliant.
 
 VLC is able to play internet-hosted streams and weird video formats that crop up occasionally.
 
