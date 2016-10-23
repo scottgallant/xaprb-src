@@ -131,3 +131,5 @@ Airline apps are great for checking in, getting a boarding pass, and getting thr
 From airline apps to "git commit" I've found that I can run the bulk of my digital life on iPhones and iPads. Most of my common tasks---email, calendaring, notes, and the like, are not only possible, but *better* on mobile. By choosing apps and services that work seamlessly on mobile, a lot of my life fits in the pocket of my jeans, and I can be productive from anywhere, anytime.
 
 But it's not all ponies and rainbows. Next time I'll talk about the little edge cases that don't quite work, the things that keep me from getting rid of my laptop.
+
+[Photo Credit](https://pixabay.com/en/bit-drill-akkuschrauber-628592/)
