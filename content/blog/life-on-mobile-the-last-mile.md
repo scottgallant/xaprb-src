@@ -3,8 +3,8 @@ author: Baron Schwartz
 categories:
 - Life Hacking
 date: 2016-10-28T18:27:12-04:00
-description: ""
-image: ""
+description: "What keeps me using a laptop, if mobile devices are so great?"
+image: "media/2016/10/jet-engine.jpg"
 title: "Life on Mobile: The Last Mile on iPad"
 ---
 
