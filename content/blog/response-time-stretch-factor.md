@@ -4,7 +4,7 @@ categories:
 - Math
 - Scalability
 date: 2016-10-30T10:00:39-04:00
-description: "Is there a simple stretch-factor equation that describes queueing delay for M>2?"
+description: "Is there a simple stretch-factor equation that describes queueing delay for m>2?"
 image: "media/2016/10/error-in-heuristic.png"
 title: The Response Time Stretch Factor
 ---
